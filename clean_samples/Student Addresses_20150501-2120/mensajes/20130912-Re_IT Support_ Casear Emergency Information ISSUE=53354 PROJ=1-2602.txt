@@ -1,0 +1,24 @@
+Asunto: Re: IT Support: Casear Emergency Information ISSUE=53354 PROJ=1
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 9/12/2013 9:10 AM
+Para: it.service@northwestern.edu
+
+The only reason that I mention it is that I received an email "reminding" me to confirm it. Is this automatic, even if I have confirmed my information?
+
+El sep 12, 2013 11:08 AM, "IT Service Manager" <it.service@northwestern.edu> escribió:
+>
+> When replying, type your text above this line.
+> ________________________________
+> Thank you for submitting an IT support request. Your request has been marked as completed.
+>
+> Support Request: 53354 - Completed
+>
+> Title: Casear Emergency Information
+>
+> Resolution: You contacted us today after encountering problems updating your Emergency Information in CAESAR.
+>  
+> If you have edited and saved every field, and nothing is listed under your "To-do" or "Holds" lists, you should be done.
+>  
+> If you want to verify that the information has been successfully updated, contact the CAESAR helpdesk at (847) 467-0260.
+>
+> If this support request has not been resolved to your satisfaction and requires further investigation please reply to this e-mail, leaving the subject line intact.

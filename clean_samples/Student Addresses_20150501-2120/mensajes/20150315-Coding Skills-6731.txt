@@ -1,0 +1,40 @@
+Asunto: Coding Skills
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 3/15/2015 11:35 AM
+Para: chris robison <c.robison@myactv.net>
+
+Hi Mom!
+
+Here is a general list of my various skills (languages are in order of experience):
+
+Web Development:
+- HTML, CSS, JavaScript
+- BootStrap, nodejs, angular
+
+Scripting & Compiled Languages:
+- Python
+- C++
+- SQL
+- Ruby
+- Visual Basic
+- Java
+- Bash
+- C
+
+I also have experience with distributed version control systems like git and Mercurial. I am familiar with Subversion as well.
+
+I have experience with publishing software and with Microsoft Office and OpenOffice suites.
+
+I work equally well on OSX, Windows, and Linux operating systems.
+
+
+Hopefully that's enough information. Ask Mr. Hammann if he needs anything else.
+Thanks so much!
+
+Love,
+
+-- 
+
+Ethan Robison
+McCormick School of Engineering and Applied Science | Northwestern University
+B.S. in Computer Science

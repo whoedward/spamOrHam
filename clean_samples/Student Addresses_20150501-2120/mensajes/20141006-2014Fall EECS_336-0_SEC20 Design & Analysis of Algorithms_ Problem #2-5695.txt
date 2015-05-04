@@ -1,0 +1,6 @@
+Asunto: 2014Fall EECS_336-0_SEC20 Design & Analysis of Algorithms: Problem #2
+De: Kevin Jason Chen <KevinChen2016@u.northwestern.edu>
+Fecha: 10/6/2014 9:00 PM
+Para: "2014FA_EECS_336-0_SEC20":;
+
+To everyone that spoke to me today during office hours about why simple insertion doesn't really work for #2, send me an email now. I figured out an actual reason for why your approach has a problem.

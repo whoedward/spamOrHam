@@ -1,0 +1,33 @@
+Asunto: Re: Spectroscopy Question
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 11/24/2012 12:58 PM
+Para: OWEN PRIEST <owen.priest@me.com>
+
+Ah, yes, thank you very much. I overlooked that small (but crucial) detail.
+
+On Sat, Nov 24, 2012 at 1:43 PM, OWEN PRIEST <owen.priest@me.com> wrote:
+
+    so, I am going to guess that you think both the of the alkene protons at the end are the same?  Even though one of them is cis to the oxygen and one is trans to the oxygen?  And you can't rotate around the double bond?  Are those the two that you think are identical and should integrate to 2?
+
+    Owen Priest
+    Department of Chemistry
+    Northwestern University
+    2145 Sheridan Rd.
+    Evanston, IL   60208
+    847-467-7913-voice
+    http://blog.scienceinsociety.northwestern.edu
+
+    "A couple of months in the laboratory can frequently save a couple of hours in the library." --- Frank Westheimer, Harvard University
+
+
+
+    On Nov 24, 2012, at 12:39 AM, Ethan Robison <ethanrobison2016@u.northwestern.edu> wrote:
+
+>     Hello Dr. Priest,
+>
+>     First, I hope that you had a wonderful Thanksgiving. Second, I have a question for you regarding spectroscopy. In compound number five of the intermediate set (http://www.chem.ucla.edu/cgi-bin/webspectra.cgi?Problem=ip5), the integrals on the H-NMR seem to go 1-1-1-2-3. If they do this, however, they do not match up with the solution, which would have 2-1-2-3. At least, that is how it seems that it would be to me. If you could please explain (or direct me to a source that could explain) this distribution, I would appreciate that very much.
+>
+>     Thank you,
+>     Ethan Robison
+
+

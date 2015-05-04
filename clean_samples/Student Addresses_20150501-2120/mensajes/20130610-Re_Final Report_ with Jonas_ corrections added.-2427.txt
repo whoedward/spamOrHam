@@ -1,0 +1,36 @@
+Asunto: Re: Final Report, with Jonas' corrections added.
+De: Mitchell Zubieta <mitchellzubieta2016@u.northwestern.edu>
+Fecha: 6/10/2013 11:44 AM
+Para: Patrick Peng <patrickpeng2016@u.northwestern.edu>
+CC: Jonas Carlsson <jonascarlsson2016@u.northwestern.edu>, Evan McConnell <evanmcconnell2016@u.northwestern.edu>, ethanrobison2016@u.northwestern.edu
+
+I've noticed  some inconsistencies with the indentation. Here's a fixed version.
+
+
+On Mon, Jun 10, 2013 at 12:43 PM, Patrick Peng <patrickpeng2016@u.northwestern.edu> wrote:
+
+    Added all your suggestions except the part about the tensioner extending the belt by X inches because I don't know the exact value.
+
+    I also made the cover pretty and purple
+
+    Cheers,
+
+    Patrick
+
+    -- 
+    Patrick Peng
+    Northwestern University 2016
+    McCormick School of Engineering and Applied Science | Mechanical Engineering
+
+
+
+
+-- 
+Mitchell Zubieta
+mitchellzubieta2016@u.northwestern.edu
+Northwestern University
+McCormick School of Engineering | Class of 2016
+Chemical Engineering
+
+Adjuntos:
+FINAL REPORT-5.docx	2.9 MB

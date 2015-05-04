@@ -1,0 +1,13 @@
+Asunto: Missing Power Source for Mini Mixer
+De: Michael Wang <michaelwang2016@u.northwestern.edu>
+Fecha: 10/26/2013 12:54 PM
+Para: NTS Supervisors <ntssupervisors@gmail.com>
+
+Today I went to set up the event in Parkes Hall and found that the mini mixer's power source was missing. It was being used last night in Dittmar, so I called Magan (who was on the rotation last night) and he said that they were using a bunch of sound boards last night for NU Nights (one didn't work) and there was probably a mix-up when they cleaned everything up at the end.
+
+Unfortunately, I didn't realize the power source was mixing until I took it to Parkes and opened up the mixer case. I tried looking for it afterwards but I did not find it... I'm not sure what to do now.
+
+-- 
+Michael Wang | McCormick 2016 | BS in Chemical Engineering
+michaelwang2016@u.northwestern.edu
+

@@ -1,0 +1,73 @@
+Asunto: Is the Humor Real?
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 11/21/2014 12:28 PM
+Para: Kylee Grant <kyleegrant2017@u.northwestern.edu>
+
+The humor is real.
+
+
+
+-- 
+
+Ethan Robison
+McCormick School of Engineering and Applied Science | Northwestern University
+B.S. in Computer Science
+
+ArtsyFartsy.py
+
+from os import system
+import re, random, time
+
+fname = raw_input('Enter file name...\n')
+
+P = 1; p = 1
+K = 0; k = 0
+male = input('Kylee or Patrick(K/P)?\n')
+
+voice = raw_input('Which voice?\n')	# Kathy, Vicki, Victoria, Alex, Bruce, Fred
+if voice.lower().capitalize() not in ['Kathy', 'Vicki', 'Victoria', 'Alex', 'Bruce', 'Fred']:
+	if male:
+		voice = 'Alex'
+	else:
+		voice = 'Vicki'
+
+hold = input('How long of a pause?\n')
+
+with open(fname) as f:
+	rawl = [l.strip().lower() for l in f.readlines()]
+
+p_triml = []
+k_triml = []
+
+# triml = [l for l in rawl if l[-1:-4:-1] != 'tsc']
+
+for ii in range(len(rawl)):
+	if rawl[ii][-1:-4:-1] != 'tsc':
+		if ii > 0:	# error checking
+			if rawl[ii-1][0] == 'p':
+				p_triml.append(rawl[ii])
+			elif rawl[ii-1][0] == 'k':
+				k_triml.append(rawl[ii])
+
+p_subl = [re.sub('[^a-z\ ,.0-9]', "", e) for e in p_triml]
+k_subl = [re.sub('[^a-z\ ,.0-9]', "", e) for e in k_triml]
+
+p_dat = [(random.random(), line) for line in p_subl if line != ""]
+p_dat.sort()
+k_dat = [(random.random(), line) for line in k_subl if line != ""]
+k_dat.sort()
+
+s = raw_input("Press ENTER when you're ready...")
+
+if male:
+	for _, l in p_dat:
+		system ('say -v %s %s' %(voice, l))
+		time.sleep(hold)
+else:
+	for _, l in k_dat:
+		system ('say -v %s %s' %(voice, l))
+		time.sleep(hold)
+
+
+Adjuntos:
+ArtsyFartsy.py	1.3 KB

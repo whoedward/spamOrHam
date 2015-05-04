@@ -1,0 +1,30 @@
+Asunto: website thingy
+De: Phoebe Kim <heekim2016@u.northwestern.edu>
+Fecha: 3/25/2015 12:26 PM
+Para: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+
+Heyyyyy
+
+Thank you for helping~
+So i'll send you the folder in like.. 3 hours or whatever but what I need on the website is the endorsement page to work like this example.
+
+http://groups.northwestern.edu/anialexforasg/index.php/endorsements/
+
+So on the website I'm making, there's a page called "endorsements" and I have square images as icons.. and when you click on the image, it should have a popup box that describes the people & their statement of endorsement or whatever w/ the background shadowed/darkened..
+
+To start off with, there will be 30 of those boxes with different groups/people in each of them and we should be able to add more throughout the campaign.. 
+
+I'm guessing using a loop w/ an array of info or something but w/e works haha
+
+Let me know if this makes or does not make sense....
+
+:)
+
+Phoebe
+
+-- 
+Phoebe HeeJu Kim
+Northwestern Class of 2017
+Bachelor of Music in Violin Performance - Bienen School of Music
+Bachelor of Science in Industrial Engineering - McCormick School of Engineering
+

@@ -1,0 +1,20 @@
+Asunto: 2014Winter EECS_211-0_SEC21 Fundamentals of Computer Programming II: Problem Solving
+De: AliGok2017@u.northwestern.edu
+Fecha: 1/25/2014 11:00 AM
+Para: "2014WI_EECS_211-0_SEC21":;
+
+Hi.
+
+Please check the files attached to the "Some tips on programming and debugging" folder under "Documents"
+
+If you cannot open them on your browser, just download them and then open.
+
+
+
+Why does this not work: Please go over this file before making a post on Piazza. I believe it is a quite helpful checklist.
+
+Common Mistakes: Most commonly made mistakes. (Including syntax errors) These are usually very basic reminders, but if you keep getting some problems it may worth to check this file.
+
+General Hints: Just go over them once and keep them in mind.
+
+Guess the output game: Some students may want to check this file since this file contains some interesting usages of the things you learn in class. Currently it has examples only about arithmetic operators and strings.

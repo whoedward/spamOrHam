@@ -1,0 +1,14 @@
+Asunto: Changing Pick-Up Time
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 6/8/2014 10:16 AM
+Para: "BoxCo." <contact@nuboxco.com>
+
+Hi,
+
+I am trying to change my pick-up time (due to server errors it was changed), but it seems that I cannot do so. The advice on the FAQ section of the site told me to go to the "Schedule Pick-Up" section and to change my information there; however, when i go to this portion of the site, there are no buttons nor any links that I can click to adjust my pick-up time. Please let me know what I can do to fix this.
+
+-- 
+
+Ethan Robison
+McCormick School of Engineering and Applied Science | Northwestern University
+B.S. in Computer Science

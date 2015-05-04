@@ -1,0 +1,38 @@
+Asunto: Re: Daily Question
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 10/14/2012 6:17 PM
+Para: Danny Abrams <dmabrams@northwestern.edu>
+
+Hello,
+
+I just took another look at it, and am embarrassed to say that I did in fact misread the values for the j and k vectors. Apologies for the doubt.
+
+Ethan
+
+On Sat, Oct 13, 2012 at 9:08 PM, Danny Abrams <dmabrams@northwestern.edu> wrote:
+
+    Hi Ethan,
+
+    I just took another look, and the answer as posted seems correct to
+    me.  I think you may have misread the given vectors.  Try checking the
+    components of u: make sure you don't confuse the j and k vectors.
+
+    Prof. Abrams
+
+
+    On Fri, Oct 12, 2012 at 8:56 PM, Ethan Christopher Robison
+    <EthanRobison2016@u.northwestern.edu> wrote:
+    > Hello Professor Abrams,
+    >
+    > I apologize if you have already posted something regarding this, but I have
+    > a concern with the daily question. When I computed it, I found the value to
+    > be (i + j - 7k). However, the answer recorded on Blackboard was different. I
+    > double-checked my work, and used wolframalpha to double-check that work, and
+    > the answers are consistent, and do not agree with the answer on the site. I
+    > apologize if I am speaking out of turn, and just wanted to mention the issue
+    > to you.
+    >
+    > Thanks,
+    > Ethan Robison
+
+

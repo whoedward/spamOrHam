@@ -1,0 +1,6 @@
+Asunto: 2013Fall CHEM_ENG_321-0_SEC20 Fluid Mechanics: Pipe Flow Activity Corrections on Blackboard
+De: Karthik Sekar <KarthikSekar2015@u.northwestern.edu>
+Fecha: 10/17/2013 6:20 AM
+Para: "2013FA_CHEM_ENG_321-0_SEC20":;
+
+All, corrected a couple of mistakes with pipe flow activity (e.g. equation for laminar flow through triangular cross section needs a L). A revised copy is on Blackboard.

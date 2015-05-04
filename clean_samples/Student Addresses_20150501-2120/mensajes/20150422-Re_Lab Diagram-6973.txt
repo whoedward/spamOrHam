@@ -1,0 +1,79 @@
+Asunto: Re: Lab Diagram
+De: Ashley Lim <ashleylim2016@u.northwestern.edu>
+Fecha: 4/22/2015 8:18 PM
+Para: Mehjabin Monjur <mehjabinmonjur2016@u.northwestern.edu>, Ethan Robison <EthanRobison2016@u.northwestern.edu>
+
+Thank you Mehjabin! 
+
+We actually came across another question on the lab - we were confused on how we would have a carry with two's complement numbers, because we thought that when adding two's complement, you ignore the carry. Could you clarify what the carry should be?
+
+Ashley
+
+--
+Ashley Lim, B.S Industrial Engineering 
+McCormick School of Engineering
+Northwestern University 2016
+ashleylim2016@u.northwestern.edu
+
+On Wed, Apr 22, 2015 at 9:12 PM, Mehjabin Monjur <mehjabinmonjur2016@u.northwestern.edu> wrote:
+
+    Yes. You are right.
+
+    On Wed, Apr 22, 2015 at 8:55 PM, Ashley Lim <ashleylim2016@u.northwestern.edu> wrote:
+
+        Sorry, I might have misread lab 2. Ignore my last message - but just to clarify, for lab 2 the types of diagrams you are expecting is only gate level diagrams and work for Boolean algebra?
+
+        Ashley
+
+        --
+        Ashley Lim, B.S Industrial Engineering 
+        McCormick School of Engineering
+        Northwestern University 2016
+        ashleylim2016@u.northwestern.edu
+
+        On Wed, Apr 22, 2015 at 8:36 PM, Mehjabin Monjur <mehjabinmonjur2016@u.northwestern.edu> wrote:
+
+            I do not see any attachment. And are you talking about Lab 1 or 2? Lab 1 has already been graded.
+
+            On Wed, Apr 22, 2015 at 8:03 PM, Ashley Lim <ashleylim2016@u.northwestern.edu> wrote:
+
+                Hi Mehjabin,
+
+                I wanted to ask about the circuit diagrams - I attached ours from lab 1 to this message. Can you give me feedback on our diagram, and how we could make it better? And just in general, do you have suggestions on how we should go about drawing the diagrams?
+
+                Thank you!
+                Ashley
+
+
+
+
+                --
+                Ashley Lim, B.S Industrial Engineering 
+                McCormick School of Engineering
+                Northwestern University 2016
+                ashleylim2016@u.northwestern.edu
+
+
+
+
+            -- 
+            Mehjabin Sultana Monjur
+            PhD Candidate, Electrical Engg. & Computer Science
+            Northwestern University
+            Room No. M316; Evanston, IL 60208
+            Office No. (847) 467-7852; Cell. No. (773) 592-6346
+            URL: http://mehjabinmonjur.webs.com/
+
+
+
+
+
+    -- 
+    Mehjabin Sultana Monjur
+    PhD Candidate, Electrical Engg. & Computer Science
+    Northwestern University
+    Room No. M316; Evanston, IL 60208
+    Office No. (847) 467-7852; Cell. No. (773) 592-6346
+    URL: http://mehjabinmonjur.webs.com/
+
+

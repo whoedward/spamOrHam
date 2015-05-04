@@ -1,0 +1,14 @@
+Asunto: Program Update
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 12/28/2013 9:07 AM
+Para: "michael. mckean" <michael.mckean@northwestern.edu>
+
+Hey Michael,
+
+I wanted to get in touch with you regarding the program. A couple of things to let you know:
+1) The program is coming along in Visual Basic (read: ready to go).
+2) There is the potential to develop Sharepoint applications. If you'd like, I can look into that.
+3) It might be worth getting a computer to act as a "server" for a database or such. We can use any old computer, but a dedicated desktop would make things easier.
+
+Hope you're having a good holiday,
+Ethan

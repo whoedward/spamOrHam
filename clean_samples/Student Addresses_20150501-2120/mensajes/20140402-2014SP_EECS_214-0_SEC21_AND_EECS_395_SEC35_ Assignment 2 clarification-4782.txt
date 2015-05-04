@@ -1,0 +1,6 @@
+Asunto: 2014SP_EECS_214-0_SEC21_AND_EECS_395_SEC35: Assignment 2 clarification
+De: Samarth Zankharia <samarthzankharia2014@u.northwestern.edu>
+Fecha: 4/2/2014 5:35 PM
+Para: "2014SP_EECS_214-0_SEC21_AND_EECS_395_SEC35":;
+
+For assignment 2 besides the execution time, you also need to submit your Java Code which you wrote.

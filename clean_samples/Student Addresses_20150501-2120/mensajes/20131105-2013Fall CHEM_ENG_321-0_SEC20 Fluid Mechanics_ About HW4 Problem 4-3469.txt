@@ -1,0 +1,10 @@
+Asunto: 2013Fall CHEM_ENG_321-0_SEC20 Fluid Mechanics: About HW4 Problem 4
+De: Hongda Zhang <HongdaZhang2012@u.northwestern.edu>
+Fecha: 11/5/2013 10:50 AM
+Para: "2013FA_CHEM_ENG_321-0_SEC20":;
+
+Hi all,
+
+In HW4 problem 4, which is the taxi sign problem, some of you used the value of 1 for the drag coefficient and I took away 2 points for that. I just talked with Prof. Burghardt and I understand why you directly made that estimation. So if you have this issue please send me an email to let me know so that I can add back the points for you. Sorry for the inconvenience guys.
+
+Hongda

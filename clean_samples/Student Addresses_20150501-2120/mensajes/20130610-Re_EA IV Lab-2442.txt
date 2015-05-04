@@ -1,0 +1,40 @@
+Asunto: Re: EA IV Lab
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 6/10/2013 10:30 PM
+Para: Avinash J Karamchandani <avinashkaramchandani2012@u.northwestern.edu>
+
+Okay, that makes more sense.
+I just had a minor breakthrough (of sorts) with my code, and it is now cooperating better. Hopefully I have a better handle on things.
+I am going to also attempt to use Green's theorem to calculate the amplitude, as that seems the easiest.
+
+Thank you very much for your help and patience.
+
+Ethan
+
+
+2013/6/11 Avinash J Karamchandani <avinashkaramchandani2012@u.northwestern.edu>
+
+    Ok, so you're using the system version of undetermined coefficients. Remember that for a cosine you either guess a particular solution that includes sin and cos, matching up terms after you substitute, or you replace cos(w t) with e^(i w t ), use e^(i w t) in the particular solution and take real part of the solution at the end.
+
+    Note that the assumption in undetermined coefficients is that the D vector is constant over time, it actually should not depend on t.
+
+    Avi
+    On Jun 11, 2013, at 12:43 AM, Ethan Robison wrote:
+
+    > I am summing the squares of the oscillations at a particular time. That is to say that I am squaring the values in U and adding them up.
+    >
+    > However, when I use the substitution U = cos(wt)*D and I solve for D I get:
+    >
+    > D = f( ( [-w^2*I] -w*[c1K + c2I]*tan(w*t) + K)^-1
+    >
+    > When I feed this into Matlab it returns the same values for D for all values of t. This happens no matter what omega I choose.
+    >
+    > I have attached my Matlab program. Feel free to ignore if it is too messy or unnecessary.
+    >
+    > Thanks again,
+    > Ethan
+    >
+    >
+    >
+
+

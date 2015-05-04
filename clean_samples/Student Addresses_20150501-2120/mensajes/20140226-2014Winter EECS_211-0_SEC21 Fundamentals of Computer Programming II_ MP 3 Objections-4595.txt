@@ -1,0 +1,14 @@
+Asunto: 2014Winter EECS_211-0_SEC21 Fundamentals of Computer Programming II: MP 3 Objections
+De: AliGok2017@u.northwestern.edu
+Fecha: 2/26/2014 10:49 PM
+Para: "2014WI_EECS_211-0_SEC21":;
+
+Hi all.
+
+Especially for X-Code users:
+
+If you have any objections to your MP3 grades please go to documents, under it there is "grading inputs used". By using the gradign input there, check your project be yourself. Every case us worth 2.5 points, there are 20 cases, so total functionality grade is 50.
+
+If your output for each case gives correct information (message body is not very important but ALL the variable names and operation descriptions should be correct) then you get full credit. If your descriptions or variable names are wrong you get almost 0 from that part. If there are small errors, you get partial credit.
+
+If you have any objections please go through these steps first and if you have any objection please send me an email and INCLUDE the output you get when you run your program with the grading input. (Especially for X-Code users: There may be compatibility issues which caused your program to work completely wrong while I was grading it. Please send me an email with the output you get from your program if you think this is the case. For others, do not worry I will not grade the output they send to me. I have a fair solution for this case.)

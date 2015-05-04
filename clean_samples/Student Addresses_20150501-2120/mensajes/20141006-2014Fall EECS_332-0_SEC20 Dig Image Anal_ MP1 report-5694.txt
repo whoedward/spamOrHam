@@ -1,0 +1,10 @@
+Asunto: 2014Fall EECS_332-0_SEC20 Dig Image Anal: MP1 report
+De: Yin Xia <YinXia2012@u.northwestern.edu>
+Fecha: 10/6/2014 8:17 PM
+Para: "2014FA_EECS_332-0_SEC20":;
+
+Hi class,
+
+     You will need to submit a report for assignment 1. In the report, you need to show final your labeling result. You may also show intermediate result and explain why is that.
+
+     It is recommended to visualize your labeling result as an image. You can either assign each label a color, or unique intensity. Result visualization is an intuitive and important evaluation method, I believe you will benefit from that.  

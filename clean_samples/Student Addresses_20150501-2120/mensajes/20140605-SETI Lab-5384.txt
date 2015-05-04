@@ -1,0 +1,20 @@
+Asunto: SETI Lab
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 6/5/2014 10:19 PM
+Para: kh@u.northwestern.edu
+
+Hi Kyle,
+
+I am a student currently enrolled in EECS 213 with Dr. Dinda. I am sure that you have received a number of emails concerning the SETI lab, so I do hate to bother you. However, starting at around midnight last night, submissions to Murphy became borderline impossible for me and my lab partner. Times of over twenty minutes still did not result in success.
+
+However, I would like to say that our code works quite well within the scope of the lab (we hit a lot of snafus and had to fix a lot of things), and that we correctly identified the band with "aliens" on it.
+
+So, with that said, is there anything that we can do, since there is so much trouble with submissions?
+
+Best,
+
+-- 
+
+Ethan Robison
+McCormick School of Engineering and Applied Science | Northwestern University
+B.S. in Computer Science

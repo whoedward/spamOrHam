@@ -1,0 +1,26 @@
+Asunto: Re: IT Support: Casear Emergency Information ISSUE=53354 PROJ=1
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 9/12/2013 8:06 AM
+Para: it.service@northwestern.edu
+
+Hello Again,
+
+I have tried doing this. I have received no confirmation emails nor notifications.
+
+Ethan
+
+El sep 12, 2013 8:12 AM, "IT Service Manager" <it.service@northwestern.edu> escribió:
+>
+> When replying, type your text above this line.
+> ________________________________
+> Thank you for submitting an IT support request. Your request has been marked as completed.
+>
+> Support Request: 53354 - Completed
+>
+> Title: Casear Emergency Information
+>
+> Resolution: You contacted us about an issue confirming your emergency contact information in CAESAR. Please be sure you are using one of the Supported Browsers, and then clicked Edit > Save and Continue for each emergency contact information field. Once you have done this, it should be updated. 
+>  
+> If you still have problems updating the information, please contact the CAESAR Help Desk at 847-467-0260.
+>
+> If this support request has not been resolved to your satisfaction and requires further investigation please reply to this e-mail, leaving the subject line intact.

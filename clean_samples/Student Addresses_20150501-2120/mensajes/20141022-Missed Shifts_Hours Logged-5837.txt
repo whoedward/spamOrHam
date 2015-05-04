@@ -1,0 +1,36 @@
+Asunto: Missed Shifts/Hours Logged
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 10/22/2014 10:31 AM
+Para: NTS@listserv.it.northwestern.edu
+BCC: "ntssupervisors@gmail.com" <ntssupervisors@gmail.com>
+
+Hi Guys,
+
+While Michael is out, please send missed swipes and hours to Jenn Stripe at jennifer-king@northwestern.edu.
+
+Keep in mind that hours logged only pertains if you are not yet in the system (sorry about the wait, thanks for your patience).
+
+Also, if you are logging hours, do not use the Kronos error log. This is for when Kronos bugs out and the card reader will not work. If you are not in the system, email Michael (Jenn, for now)
+
+
+
+Missed Shift Format:
+
+Subject: Missed Shift + Date
+
+Body:
+1. Name
+2. Date (again)
+3. Hours and type of event (out of house or in house)
+
+
+
+Any questions can be sent to me, any of the supers, or ntssupervisors@gmail.com
+
+Best,
+
+-- 
+
+Ethan Robison
+McCormick School of Engineering and Applied Science | Northwestern University
+B.S. in Computer Science

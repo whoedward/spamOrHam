@@ -1,0 +1,12 @@
+Asunto: Prototype
+De: Mitch Z <mitchellzubieta2016@u.northwestern.edu>
+Fecha: 6/13/2013 3:51 PM
+Para: j-herrick@northwestern.edu, Joseph J Holtgreive <jjh@northwestern.edu>
+CC: ethanrobison2016@u.northwestern.edu, jonascarlsson2016@u.northwestern.edu, patrickpeng2016@u.northwestern.edu, evanmcconnell2016@u.northwestern.edu
+
+Dear professors,
+In order to make sure that any other team, such as a summer team, is able to build upon our prototype, where should we store it?
+
+Thanks,
+Team 3
+

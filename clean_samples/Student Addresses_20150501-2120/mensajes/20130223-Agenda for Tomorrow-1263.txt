@@ -1,0 +1,25 @@
+Asunto: Agenda for Tomorrow
+De: William Krinsman <williamkrinsman2012@u.northwestern.edu>
+Fecha: 2/23/2013 9:35 AM
+Para: Ethan Robison <ethanrobison2016@u.northwestern.edu>, John Letsche <johnletsche2012@u.northwestern.edu>, Jonas Carlsson <jonascarlsson2016@u.northwestern.edu>
+
+DTC Meeting Agenda
+
+24th of February, 2013
+
+by William Krinsman
+- Discuss briefly chapters in textbook we need to read for Tuesday (10, 22, 28)
+(5 min max)
+
+-WARNING: Essay due Tuesday. Possibly agree upon a deadline for final drafts to be submitted for others on team to review for necessary changes having been made before Tuesday.
+(10 min max)
+
+-Allocate responsibilities for sections of Final Report due Tuesday:
+1. Introduction
+2. Users/ Design Requirements
+3. Outline of Design Concept and Rationale Section
+(15 min max)
+
+-Discuss design freeze, latest prototype, ie
+CHOOSE OUR DESIGN
+(rest of meeting, 30 min)

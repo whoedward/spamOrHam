@@ -1,0 +1,107 @@
+Asunto: Fwd: Delivery Status Notification (Failure)
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 9/8/2013 9:26 PM
+Para: nikolajsorensen2016@u.northwestern.edu
+
+---------- Mensaje remitido ----------
+De: "Mail Delivery Subsystem" <mailer-daemon@googlemail.com>
+Fecha: sep 8, 2013 11:25 PM
+Asunto: Delivery Status Notification (Failure)
+Para: <ethanrobison2016@u.northwestern.edu>
+Cc:
+
+Delivery to the following recipient failed permanently:
+
+     nikolajsorenson2016@u.northwestern.edu
+
+Technical details of permanent failure:
+Google tried to deliver your message, but it was rejected by the server for the recipient domain u.northwestern.edu by aspmx.l.google.com. [173.194.73.27].
+
+The error that the other server returned was:
+550-5.1.1 The email account that you tried to reach does not exist. Please try
+550-5.1.1 double-checking the recipient's email address for typos or
+550-5.1.1 unnecessary spaces. Learn more at
+550 5.1.1 http://support.google.com/mail/bin/answer.py?answer=6596 g7si2705394vcz.120 - gsmtp
+
+----- Original message -----
+
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=TFjaCm1Iu8R+IQiHSXDsZbpG7wJjxKkdt9PkpTH5UOM=;
+        b=Cnz9Gucz83alebKSzI3a92mO/dumQPx+Vk6l97mSiBj6ZFah5ngaHqfUtDvux2lzTl
+         8PwRC/cDpf2aqX0D7pDou2+lruZFmUA6aZQ3avdJYfjKQVqq//8umVpirqnZF2iX8SVa
+         vkt/ksi1iFpNv05I7vlpfppXzN+NOKlW+yihNgPhWneyggndcGVidUGQvMJlxJBJJVRu
+         Z+/muaNpwzChK8/Pb5vot4HsX48x+m4bXypluMpJgeXd+2r7JC2/96KBQf+0h/TPNcJ5
+         OfEEVK8RYvR0Nw/+1mzhsq0ZZkQrz1+AHaIgrVSnfspHbZMs96es7SyZNOOLUH5grDw3
+         lb1g==
+X-Gm-Message-State: ALoCoQm2GrIGyJ06OZ3+rvRiMjlxxgvLyb+oIPdZ9nkvIHXyiz0A8B7fC6KfQw8xuyiP9O7ZPXXU
+MIME-Version: 1.0
+X-Received: by 10.220.174.200 with SMTP id u8mr15638557vcz.6.1378700757046;
+ Sun, 08 Sep 2013 21:25:57 -0700 (PDT)
+Received: by 10.58.248.97 with HTTP; Sun, 8 Sep 2013 21:25:56 -0700 (PDT)
+Received: by 10.58.248.97 with HTTP; Sun, 8 Sep 2013 21:25:56 -0700 (PDT)
+In-Reply-To: <047d7b6dcb7c920a5e04e5ebb931@google.com>
+References: <CAFNTqEhxBM1hvUHMB7NYo02sfgeGBXH7QPOhKeVk_nz5J0ngLQ@mail.gmail.com>
+        <047d7b6dcb7c920a5e04e5ebb931@google.com>
+Date: Mon, 9 Sep 2013 00:25:56 -0400
+Message-ID: <CAFNTqEi9kdnMBwb6ZC5_BugcSWE=4_zDiWQyQ2EJVc+ShA6HeQ@mail.gmail.com>
+Subject: Fwd: Delivery Status Notification (Failure)
+From: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+To: nikolajsorenson2016@u.northwestern.edu
+Content-Type: multipart/alternative; boundary=089e0149ca3ae02c3004e5ebc81a
+
+---------- Mensaje remitido ----------
+De: "Mail Delivery Subsystem" <mailer-daemon@googlemail.com>
+Fecha: sep 8, 2013 11:21 PM
+Asunto: Delivery Status Notification (Failure)
+Para: <ethanrobison2016@u.northwestern.edu>
+Cc:
+
+Delivery to the following recipient failed permanently:
+
+     nikolajsorenson2016@u.comnorthwestetn.edu
+
+Technical details of permanent failure:
+DNS Error: Domain name not found
+
+----- Original message -----
+
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:content-type;
+        bh=3cESU06NvdOaFSNzqBV4I2XXX738xyiq4SPnvzUkcTY=;
+        b=VJHY9HSRZP95AnjaxqvfMh2kDzXYOlG423W2JUWLOPYb+nKXEJnIq/EuKXCkQfi+Xw
+
+ TfttJBNixyiz3L9j414XYfhtYSAeRDwcPgy4j/NMhEWBdOqFruu5Q057qIgXXpOofXOB
+
+ SuS6OY5NRUv+wV+GCiA9ymGXKTVpOFjxGTpqlJeaVBKadaeZX0pmrLDHTxHuWKOWFTPL
+
+ eCs2ESGyiGljYVTohYv7AACikZYufPRqrESt1MxfzjXxYB2wm4/6bY1NCQeZHNnQS5Pt
+
+ zjpGf6XytjXKc+GBxwx+dQYgtiptPPdyYnGpKi0bhCy+5q6cWszMEgtgAG4H3p9D7C9m
+         ZfGg==
+X-Gm-Message-State:
+ALoCoQnop8gR0I1XL0Eyn7CWJ27QmuxDGW7EYmOpUsPfODyx23fpPDAUBCRY3AAcYs5YPBpOBjT4
+MIME-Version: 1.0
+X-Received: by 10.58.198.13 with SMTP id iy13mr15621671vec.11.1378700500114;
+ Sun, 08 Sep 2013 21:21:40 -0700 (PDT)
+Received: by 10.58.248.97 with HTTP; Sun, 8 Sep 2013 21:21:40 -0700 (PDT)
+Received: by 10.58.248.97 with HTTP; Sun, 8 Sep 2013 21:21:40 -0700 (PDT)
+In-Reply-To:
+<1182-1644788114.1378357200976.JavaMail.EVBULKMAIL1$@EVBULKMAIL1>
+References:
+<1182-1644788114.1378357200976.JavaMail.EVBULKMAIL1$@EVBULKMAIL1>
+Date: Mon, 9 Sep 2013 00:21:40 -0400
+Message-ID: <
+CAFNTqEhxBM1hvUHMB7NYo02sfgeGBXH7QPOhKeVk_nz5J0ngLQ@mail.gmail.com>
+Subject: Fwd: Cardinal Scholar Job Opportunity
+From: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+To: nikolajsorenson2016@u.comnorthwestetn.edu
+Content-Type: multipart/alternative; boundary=047d7b6dcb7c8faf2c04e5ebb904
+
+
+----- Message truncated -----
+

@@ -1,0 +1,45 @@
+Asunto: Thing
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 2/22/2014 7:25 PM
+Para: Michael Wang <michaelwang2016@u.northwestern.edu>
+
+Word
+
+-- 
+
+Ethan Robison
+McCormick School of Engineering and Applied Science | Northwestern University
+B.S. in Computer Science
+
+TestCase.txt
+
+a = 5
+5 + 5
+who
+6 + 6
+b = a + 5
+who
+c = a + 5.55
+who
+tt = a / 0
+2 = a * c
+who
+a = 1
+b = 2
+c = 3
+d = 4
+who
+a += 1
+b -= 1
+c *= 2
+d /= 2
+who = 5
+a = b += 5
+a += b + 5
+a += b = 5
+who
+quit
+
+
+Adjuntos:
+TestCase.txt	208 bytes

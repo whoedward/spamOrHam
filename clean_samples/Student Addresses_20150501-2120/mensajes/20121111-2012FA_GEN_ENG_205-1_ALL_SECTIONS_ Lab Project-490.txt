@@ -1,0 +1,22 @@
+Asunto: 2012FA_GEN_ENG_205-1_ALL_SECTIONS: Lab Project
+De: Ilya Vladimir Mikhelson <IlyaMikhelson2010@u.northwestern.edu>
+Fecha: 11/11/2012 12:06 PM
+Para: "2012FA_GEN_ENG_205-1_ALL_SECTIONS":;
+
+Hi EA1 Students,
+
+The final three lab sessions will be dedicated to the Lab Project, an exercise in using MATLAB and linear algebra to synthesize and analyze music. The lab will be divided into three parts, a Pre-lab, Part One, and Part Two. Unlike the previous labs, you will submit and be graded on Part One and Part Two. They are due as follows:
+
+Part One: Thursday, November 29 at 2 AM
+Part Two: Thursday, December 06 at 2 AM
+
+All of the files you will need will be found on Blackboard under
+ALL SECTIONS -> Assignments -> Lab Project
+
+In lab on 11/12, start by downloading the Digital Audio Case Study and reading pages 1-5. Pay particular attention to the MATLAB code on page 5. Next, complete the Pre-lab. You do not need to submit anything for the Pre-lab. If you complete the Pre-lab, download LabProjectFiles.zip and begin Part One.
+
+Note that lab will be held on Monday, 11/12, 11/26, and 12/03. There will be no lab on 11/19 but you will have lecture instead. Part Two of the Lab Project will be posted on 11/19. Lab attendance will not be monitored via the "lab word" for the remainder of the quarter, though you should attend lab for help and guidance on the Lab Project.
+
+Please let me know if you have any questions.
+
+-Ilya Mikhelson

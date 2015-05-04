@@ -1,0 +1,18 @@
+Asunto: 2013WI_ES_APPM_252-2_SEC20: Homework 8 and a note about choosing normal vectors
+De: Karna Vinayak Gowda <KarnaGowda2010@u.northwestern.edu>
+Fecha: 3/16/2013 3:22 PM
+Para: "2013WI_ES_APPM_252-2_SEC20":;
+
+Class,
+
+I've graded your homework #8 and the scores are posted on Blackboard. You can come pick it up from my office on Monday.
+
+On problem 1, I noticed that there was some confusion about finding the flux in a line integral. Here, we are taking n_hat to be the vector in the x-y plane normal to the curve C. The vector tangent C is dr = <dx,dy>. So that means we can take n = <-dy,dx> since dr.n = 0.
+
+If we were to normalize this, we'd get <-dy,dx>/sqrt(dx^2 + dy^2). The "ds" in this integral is the arclength, sqrt(dx/dt^2 + dy/dt^2) dt, so F.n_hat ds = F.<-dy,dx> dt. The normalizing factor cancels with the arclength element.
+
+In general, make sure that the normalizing factor for your normal vector really does cancel with the arclength or area element when doing line integrals or surface area integrals. In the past, I may have made it seem as if you can always cancel that normalizing factor with the factor from the surface area element. This is only the case if we've derived the normal vector as n = <-df/dx, -df,dy, 1> if the surface is z=f(x,y) (or equivalent if the surface is x = f(y,z), etc.). If it is easier to derive a normal vector to a surface by other means, like by just looking at it, then it is important to make this vector unit length and multiply it by the surface area element when evaluating the integral.
+
+Hopefully I haven't made this too confusing...
+
+-Karna

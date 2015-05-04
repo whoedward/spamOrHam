@@ -1,0 +1,14 @@
+Asunto: 2013WI_ES_APPM_252-2_SEC20: Daily Q
+De: Karna Vinayak Gowda <KarnaGowda2010@u.northwestern.edu>
+Fecha: 3/5/2013 11:12 AM
+Para: "2013WI_ES_APPM_252-2_SEC20":;
+
+Class,
+
+The DailyQ was originally based on a question from another class, in which the path is taken in the clockwise direction. We adapted the problem to take the integral in the counter-clockwise direction, but neglected to change the sign of the answer.
+
+I've amended DailyQ, answer and I've gone back to give credit to those of you who entered +/- the correct answer.
+
+Sorry for the trouble!
+
+Karna

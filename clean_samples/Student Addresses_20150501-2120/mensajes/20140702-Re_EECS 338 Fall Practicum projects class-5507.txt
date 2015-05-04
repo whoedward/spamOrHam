@@ -1,0 +1,310 @@
+Asunto: Re: EECS 338 Fall Practicum projects class
+De: Claudeson Azurin <claudesonazurin2017@u.northwestern.edu>
+Fecha: 7/2/2014 2:31 PM
+Para: Matt Hong <hyunhong2015@u.northwestern.edu>
+CC: Max Paymar <wmpaymar@gmail.com>, Lee Fan <leefan2014@u.northwestern.edu>, Ron Paul <RonPaul2016@u.northwestern.edu>, Christopher Walker <christopherwalker2016@u.northwestern.edu>, Megan Sinclair <megansinclair2016@u.northwestern.edu>, Sara Abu-Ghnaim <saraabughnaim2015@u.northwestern.edu>, undergrad-students <undergrad-students@eecs.northwestern.edu>, Kevin Schwarz <kevinschwarz2014@u.northwestern.edu>, Edgar Vazquez <edgarvazquez2012@u.northwestern.edu>, Zak Allen <zacharyallen2016@u.northwestern.edu>, Federico Paredes Garza <federicoparedes2015@u.northwestern.edu>, William Xiao <yuxuanxiao2017@u.northwestern.edu>, Edward Hu <edwardhu2016@u.northwestern.edu>, Leo Xie <aiqixie2016@u.northwestern.edu>, Corey McMahon <coreymcmahon2015@u.northwestern.edu>, Michael Wang <michaelwang2016@u.northwestern.edu>, Basil Huang <basilhuang2014@u.northwestern.edu>, Justin Bailey <justinbailey2017@u.northwestern.edu>, James Chang <jameschang2014@u.northwestern.edu>, Cameron MacArthur <cameronmacarthur2016@u.northwestern.edu>, Adam Foosaner <adamfoosaner2014@u.northwestern.edu>, Sean Bowen-Williams <seanbowenwilliams2015@u.northwestern.edu>, Richard Herndon <richardherndon2016@u.northwestern.edu>, Ricardo Rivas <ricardorivas2016@u.northwestern.edu>, Leo Spornstarr <leo-spornstarr@u.northwestern.edu>, Curtis Wang <ycwang@u.northwestern.edu>
+
+The number of people on this thread has grown considerably
+
+
+On Wed, Jul 2, 2014 at 4:31 PM, Claudeson Azurin <claudesonazurin2017@u.northwestern.edu> wrote:
+
+    http://www.youtube.com/watch?v=fLrpBLDWyCI
+
+
+    On Wed, Jul 2, 2014 at 4:11 PM, Matt Hong <hyunhong2015@u.northwestern.edu> wrote:
+
+        Ron Paul 2016
+        rEVOLution
+
+
+        On Wed, Jul 2, 2014 at 3:45 PM, Max Paymar <wmpaymar@gmail.com> wrote:
+
+            ok guys everyone knows HoN is the best MOBA. JK but i still only play HoN >.<
+
+
+            On Wed, Jul 2, 2014 at 3:23 PM, Lee Fan <leefan2014@u.northwestern.edu> wrote:
+
+                >LoL
+                haha you so fany
+
+
+                On Wed, Jul 2, 2014 at 3:22 PM, Ron Paul <RonPaul2016@u.northwestern.edu> wrote:
+
+                    Did you run it on nvidia-337? It won't work on nouveau.
+
+
+                    On Wed, Jul 2, 2014 at 3:06 PM, Christopher Walker <christopherwalker2016@u.northwestern.edu> wrote:
+
+                        Guys cut this dota2 nonsense it wouldn't run on my Linux Nvidia drivers so it sucks talk about LoL instead.
+                        On Jul 2, 2014 4:03 PM, "Megan Sinclair" <megansinclair2016@u.northwestern.edu> wrote:
+
+                            DON'T STOP US NOW...IF YOU WANNA HAVE A GOOD TIME...JUST GIVE US A CALL
+
+
+                            On Wed, Jul 2, 2014 at 4:00 PM, Richard Herndon <richardherndon2016@u.northwestern.edu> wrote:
+
+                                but we're having such a good time... having a ball... 
+
+
+                                On Wed, Jul 2, 2014 at 2:59 PM, Adam Foosaner <adamfoosaner2014@u.northwestern.edu> wrote:
+
+                                    Can you guys all just stop? Please and thanks.
+
+                                    Sent from my iPhone
+
+                                    On Jul 2, 2014, at 2:57 PM, James Chang <jameschang2014@u.northwestern.edu> wrote:
+
+>                                     And you call yourself a Northwestern student????
+>
+>                                     James Chang
+>                                     Sent from my phone; apologies for brevity
+>                                     On Jul 2, 2014 3:57 PM, "Zak Allen" <zacharyallen2016@u.northwestern.edu> wrote:
+>
+>                                         Thanks for the clarification Claudeson Azurin, my knowledge of marine animal genitalia in foreign languages is not the best. Shocking I know.
+>
+>                                         On Jul 2, 2014, at 2:53 PM, Claudeson Azurin <claudesonazurin2017@u.northwestern.edu> wrote:
+>
+>>                                         I don't think it's spanish for whale's vagina. I'm pretty sure it's portuguese. No worries. It's easy to mix the two up
+>>
+>>
+>>                                         On Wed, Jul 2, 2014 at 2:18 PM, Corey McMahon <coreymcmahon2015@u.northwestern.edu> wrote:
+>>
+>>                                             add me on Yo. i'm cdmcmahon
+>>
+>>                                             On Jul 2, 2014, at 2:17 PM, Edward Hu <edwardhu2016@u.northwestern.edu> wrote:
+>>
+>>>                                             add me on steam for dota2
+>>>
+>>>                                             lazyturtle
+>>>
+>>>                                             i play semi-religiously
+>>>
+>>>
+>>>                                             On Wed, Jul 2, 2014 at 3:16 PM, Lee Fan <leefan2014@u.northwestern.edu> wrote:
+>>>
+>>>                                                 >implying anything other than dota2 is a viable plan for the fourth
+>>>
+>>>
+>>>                                                 On Wed, Jul 2, 2014 at 2:15 PM, Corey McMahon <coreymcmahon2015@u.northwestern.edu> wrote:
+>>>
+>>>                                                     What's everybody's plans for the fourth?
+>>>
+>>>                                                     On Jul 2, 2014, at 2:14 PM, Ricardo Rivas <ricardorivas2016@u.northwestern.edu> wrote:
+>>>
+>>>>                                                     Anybody from San Diego?
+>>>>                                                     On Jul 2, 2014 12:08 PM, "Lee Fan" <leefan2014@u.northwestern.edu> wrote:
+>>>>
+>>>>                                                         I dunno why both Seans think its tons of work - netsec is a joke, and if by systems you mean 213, that's also a joke.  OS is busier first half of quarter and Compilers is busier second half of quarter.  Plus, compilers and OS are both pair classes.  Easy A in OS if you last past midterm, and i didn't even do homework in 213 and still finished with more than 100%.  Netsec you do all of your hw during class, and the final project is with 4 other people.  26 hours a day? more like 26 hours a week at most.  Compilers I put everything off until the last two days, but if you spread it out somewhat reasonable it's not that bad at all. 
+>>>>                                                         That's like, 12 hours of class, 26 hours of work, and if you wanna sleep 8 hours a day, then 40 hours of sleep.  That's 42 hours of DOTA 2 time available, and that's not even including the weekends. 
+>>>>
+>>>>
+>>>>                                                         On Wed, Jul 2, 2014 at 2:01 PM, Edward Hu <edwardhu2016@u.northwestern.edu> wrote:
+>>>>
+>>>>                                                             glad to know im not spamming
+>>>>
+>>>>
+>>>>                                                             On Wed, Jul 2, 2014 at 2:55 PM, Basil Huang <basilhuang2014@u.northwestern.edu> wrote:
+>>>>
+>>>>                                                                 All of them are spam but yours
+>>>>
+>>>>                                                                  
+>>>>                                                                  
+>>>>                                                                 Basil Huang
+>>>>                                                                 Northwestern University 2014
+>>>>                                                                 McCormick School of Engineering and Applied Science - Computer Science
+>>>>                                                                 bhuang@u.northwestern.edu
+>>>>
+>>>>
+>>>>                                                                 On Wed, Jul 2, 2014 at 1:54 PM, Edward Hu <edwardhu2016@u.northwestern.edu> wrote:
+>>>>
+>>>>                                                                     is this message considered spam?
+>>>>
+>>>>
+>>>>                                                                     On Wed, Jul 2, 2014 at 2:52 PM, James Chang <jameschang2014@u.northwestern.edu> wrote:
+>>>>
+>>>>                                                                         You should ask Lee for some pointers on pointers. He seems to how.
+>>>>
+>>>>                                                                         James Chang
+>>>>                                                                         Sent from my phone; apologies for brevity
+>>>>                                                                         On Jul 2, 2014 2:50 PM, "Sean Bowen-Williams" <seanbowenwilliams2015@u.northwestern.edu> wrote:
+>>>>
+>>>>                                                                             Hey guys, how do pointers work? Still confused.
+>>>>
+>>>>
+>>>>                                                                             On Wed, Jul 2, 2014 at 1:21 PM, Matt Hong <hyunhong2015@u.northwestern.edu> wrote:
+>>>>
+>>>>                                                                                 K bruh
+>>>>                                                                                 From: Cameron MacArthur
+>>>>                                                                                 Sent: 7/2/2014 12:25
+>>>>
+>>>>                                                                                 To: Sara Abu-Ghnaim
+>>>>                                                                                 Cc: Curtis Wang; Justin Bailey; Claudeson Azurin; undergrad-students; James Chang; Kevin Schwarz; Edgar Vazquez; Megan Sinclair; Lee Fan; Federico Paredes Garza; William Xiao; Leo Xie; Leo Spornstarr; Michael Wang
+>>>>                                                                                 Subject: Re: EECS 338 Fall Practicum projects class
+>>>>
+>>>>                                                                                 This is just like a not-funny YikYak
+>>>>
+>>>>                                                                                 On Jul 2, 2014, at 6:47 AM, Sara Abu-Ghnaim <saraabughnaim2015@u.northwestern.edu> wrote:
+>>>>
+>>>>>                                                                                 Hello world 
+>>>>>
+>>>>>                                                                                 On Wednesday, July 2, 2014, Curtis Wang <ycwang@u.northwestern.edu> wrote:
+>>>>>
+>>>>>                                                                                     As real as it gets: http://goo.gl/0BtgbX
+>>>>>
+>>>>>                                                                                     On Wednesday, July 2, 2014, Justin Bailey <justinbailey2017@u.northwestern.edu> wrote:
+>>>>>
+>>>>>                                                                                         Is this real life?
+>>>>>                                                                                         On Jul 2, 2014 12:52 AM, "Claudeson Azurin" <claudesonazurin2017@u.northwestern.edu> wrote:
+>>>>>
+>>>>>                                                                                             This just got real.
+>>>>>
+>>>>>
+>>>>>                                                                                             On Tue, Jul 1, 2014 at 11:34 PM, Lee Fan <leefan2014@u.northwestern.edu> wrote:
+>>>>>
+>>>>>                                                                                                 2017 eh. Guess you can start preparing!
+>>>>>                                                                                                 http://www.nrotc.navy.mil/
+>>>>>
+>>>>>
+>>>>>                                                                                                 On Tue, Jul 1, 2014 at 11:30 PM, William Xiao <yuxuanxiao2017@u.northwestern.edu> wrote:
+>>>>>
+>>>>>                                                                                                     What the heck did you just flipping say about me, you big meanie? I'll have you know I graduated top of my class in the Tiny Tots Program, and I've been involved in numerous secret raids on the girl's bathroom, and I have over 300 confirmed noogies. I am trained in Nerf warfare and I have the most gold stars in the entire kindergarten class. You are nothing to me but just another butthead. I will beat you the heck up with precision the likes of which has never been seen before on this Earth, mark my dang words. You think you can get away with saying that baloney to me on the glowy type-box? Think again, doodiehead. As we speak I am contacting my secret network of teachers across the USA and your parents are being called to pick you up right now so you better prepare for the spanking, junior. The spanking that wipes out the dumb little thing you call your playtime. You're in big darn trouble, kid. I can be anywhere, anytime, and I can wedgie you in over seven hundred ways, and that's just with my bare hands. Not only am I extensively trained in unarmed fartfights, but I have access to the entire arsenal of the United States PTA and I will use it to its full extent to wipe your dorky bottom off the face of the playground, you little poopypants. If only you could have known what serious punishments your little "smartypants" comment was about to bring down upon you, maybe you would have held your goshdarned tongue. But you couldn't, you didn't, and now you're paying the price, you silly doofus. I will spray boogers all over you and you will cry about it. You're frickin grounded, buttmunch.
+>>>>>                                                                                                     On Jul 1, 2014 11:13 PM, "Edgar Vazquez" <edgarvazquez2012@u.northwestern.edu> wrote:
+>>>>>
+>>>>>                                                                                                         Your middle name is moses?
+>>>>>                                                                                                         On Jul 1, 2014 11:11 PM, "Leo Spornstarr" <leo-spornstarr@u.northwestern.edu> wrote:
+>>>>>
+>>>>>                                                                                                             Why yes it is.
+>>>>>
+>>>>>                                                                                                             http://notytournament.com/2013/11/25/leo-moses-spornstarr-is-your-2013-name-of-the-year/
+>>>>>
+>>>>>                                                                                                             Leo Spornstarr
+>>>>>                                                                                                             Northwestern University '14
+>>>>>                                                                                                             On Jul 1, 2014 11:09 PM, "Federico Paredes Garza" <federicoparedes2015@u.northwestern.edu> wrote:
+>>>>>
+>>>>>                                                                                                                 ...hate to be that guy, but Leo Spornstarr, is that your real name..?
+>>>>>
+>>>>>                                                                                                                 Federico Paredes Garza
+>>>>>
+>>>>>                                                                                                                 On Jul 1, 2014, at 9:02 PM, Lee Fan <leefan2014@u.northwestern.edu> wrote:
+>>>>>
+>>>>>>                                                                                                                 It was only ever meant to be a simple question - however, before he had realized, there was far more than he could handle.  As he struggled to stem the flow, another would thrust their point at him until he was assaulted from all directions.  As each additional person unleashed their pointless message on top of the growing email chain, it spread a despair, attacking his mentality and threatening his sanity.  At last the attacks were too much to take and he called out for help, but alas - the bystander effect spares none. 
+>>>>>>
+>>>>>>
+>>>>>>                                                                                                                 On Tue, Jul 1, 2014 at 10:41 PM, Leo Xie <aiqixie2016@u.northwestern.edu> wrote:
+>>>>>>
+>>>>>>                                                                                                                     Excuse me I have no idea what has happened but I didn't even plan to register for this class at any point and I kept getting spammed. I am reporting this issue to the related school officials and hopefully nothing similar will come up again. 
+>>>>>>
+>>>>>>                                                                                                                     Thanks,
+>>>>>>
+>>>>>>                                                                                                                     Leo
+>>>>>>
+>>>>>>
+>>>>>>                                                                                                                     On Tue, Jul 1, 2014 at 10:32 PM, Claudeson Azurin <claudesonazurin2017@u.northwestern.edu> wrote:
+>>>>>>
+>>>>>>                                                                                                                         brah...wtf 
+>>>>>>
+>>>>>>
+>>>>>>                                                                                                                         On Tue, Jul 1, 2014 at 10:23 PM, Lee Fan <leefan2014@u.northwestern.edu> wrote:
+>>>>>>
+>>>>>>                                                                                                                             She could only feel horribly violated as he inserted his pointer arithmetic into her clean code - yet, there was something strangely enticing about the archaic yet different technique. When he started inserting goto statements, she softly let out a gasp - this was far too soon for her! “Don’t worry, you’ll get used to it quickly,” he reassured her, as he started to aggressively cover her code with spaghetti code. Now it was too late. It had become something only the two could understand - an esoteric secret that no other developer could ever hope to penetrate.
+>>>>>>
+>>>>>>
+>>>>>>                                                                                                                             On Tue, Jul 1, 2014 at 10:21 PM, Megan Sinclair <megansinclair2016@u.northwestern.edu> wrote:
+>>>>>>
+>>>>>>                                                                                                                                 In my younger and more vulnerable years my father gave me some advice that I’ve been turning over in my mind ever since.
+>>>>>>
+>>>>>>                                                                                                                                 “Whenever you feel like criticizing any one,” he told me, “just remember that all the people in this world haven’t had the advantages that you’ve had.”
+>>>>>>
+>>>>>>                                                                                                                                 He didn’t say any more, but we’ve always been unusually communicative in a reserved way, and I understood that he meant a great deal more than that. In consequence, I’m inclined to reserve all judgments, a habit that has opened up many curious natures to me and also made me the victim of not a few veteran bores. The abnormal mind is quick to detect and attach itself to this quality when it appears in a normal person, and so it came about that in college I was unjustly accused of being a politician, because I was privy to the secret griefs of wild, unknown men. Most of the confidences were unsought — frequently I have feigned sleep, preoccupation, or a hostile levity when I realized by some unmistakable sign that an intimate revelation was quivering on the horizon; for the intimate revelations of young men, or at least the terms in which they express them, are usually plagiaristic and marred by obvious suppressions. Reserving judgments is a matter of infinite hope. I am still a little afraid of missing something if I forget that, as my father snobbishly suggested, and I snobbishly repeat, a sense of the fundamental decencies is parcelled out unequally at birth.
+>>>>>>
+>>>>>>                                                                                                                                 And, after boasting this way of my tolerance, I come to the admission that it has a limit. Conduct may be founded on the hard rock or the wet marshes, but after a certain point I don’t care what it’s founded on. When I came back from the East last autumn I felt that I wanted the world to be in uniform and at a sort of moral attention forever; I wanted no more riotous excursions with privileged glimpses into the human heart. Only Gatsby, the man who gives his name to this book, was exempt from my reaction — Gatsby, who represented everything for which I have an unaffected scorn. If personality is an unbroken series of successful gestures, then there was something gorgeous about him, some heightened sensitivity to the promises of life, as if he were related to one of those intricate machines that register earthquakes ten thousand miles away. This responsiveness had nothing to do with that flabby impressionability which is dignified under the name of the “creative temperament.”— it was an extraordinary gift for hope, a romantic readiness such as I have never found in any other person and which it is not likely I shall ever find again. No — Gatsby turned out all right at the end; it is what preyed on Gatsby, what foul dust floated in the wake of his dreams that temporarily closed out my interest in the abortive sorrows and short-winded elations of men.
+>>>>>>
+>>>>>>                                                                                                                                 My family have been prominent, well-to-do people in this Middle Western city for three generations. The Carraways are something of a clan, and we have a tradition that we’re descended from the Dukes of Buccleuch, but the actual founder of my line was my grandfather’s brother, who came here in fifty-one, sent a substitute to the Civil War, and started the wholesale hardware business that my father carries on to-day.
+>>>>>>
+>>>>>>                                                                                                                                 I never saw this great-uncle, but I’m supposed to look like him — with special reference to the rather hard-boiled painting that hangs in father’s office. I graduated from New Haven in 1915, just a quarter of a century after my father, and a little later I participated in that delayed Teutonic migration known as the Great War. I enjoyed the counter-raid so thoroughly that I came back restless. Instead of being the warm centre of the world, the Middle West now seemed like the ragged edge of the universe — so I decided to go East and learn the bond business. Everybody I knew was in the bond business, so I supposed it could support one more single man. All my aunts and uncles talked it over as if they were choosing a prep school for me, and finally said, “Why — ye — es,” with very grave, hesitant faces. Father agreed to finance me for a year, and after various delays I came East, permanently, I thought, in the spring of twenty-two.
+>>>>>>
+>>>>>>                                                                                                                                 The practical thing was to find rooms in the city, but it was a warm season, and I had just left a country of wide lawns and friendly trees, so when a young man at the office suggested that we take a house together in a commuting town, it sounded like a great idea. He found the house, a weather-beaten cardboard bungalow at eighty a month, but at the last minute the firm ordered him to Washington, and I went out to the country alone. I had a dog — at least I had him for a few days until he ran away — and an old Dodge and a Finnish woman, who made my bed and cooked breakfast and muttered Finnish wisdom to herself over the electric stove.
+>>>>>>
+>>>>>>                                                                                                                                 It was lonely for a day or so until one morning some man, more recently arrived than I, stopped me on the road.
+>>>>>>
+>>>>>>                                                                                                                                 “How do you get to West Egg village?” he asked helplessly.
+>>>>>>
+>>>>>>                                                                                                                                 I told him. And as I walked on I was lonely no longer. I was a guide, a pathfinder, an original settler. He had casually conferred on me the freedom of the neighborhood.
+>>>>>>
+>>>>>>                                                                                                                                 And so with the sunshine and the great bursts of leaves growing on the trees, just as things grow in fast movies, I had that familiar conviction that life was beginning over again with the summer.
+>>>>>>
+>>>>>>                                                                                                                                 There was so much to read, for one thing, and so much fine health to be pulled down out of the young breath-giving air. I bought a dozen volumes on banking and credit and investment securities, and they stood on my shelf in red and gold like new money from the mint, promising to unfold the shining secrets that only Midas and Morgan and Maecenas knew. And I had the high intention of reading many other books besides. I was rather literary in college — one year I wrote a series of very solemn and obvious editorials for the “Yale News.”— and now I was going to bring back all such things into my life and become again that most limited of all specialists, the “well-rounded man.” This isn’t just an epigram — life is much more successfully looked at from a single window, after all.
+>>>>>>
+>>>>>>                                                                                                                                 It was a matter of chance that I should have rented a house in one of the strangest communities in North America. It was on that slender riotous island which extends itself due east of New York — and where there are, among other natural curiosities, two unusual formations of land. Twenty miles from the city a pair of enormous eggs, identical in contour and separated only by a courtesy bay, jut out into the most domesticated body of salt water in the Western hemisphere, the great wet barnyard of Long Island Sound. They are not perfect ovals — like the egg in the Columbus story, they are both crushed flat at the contact end — but their physical resemblance must be a source of perpetual confusion to the gulls that fly overhead. To the wingless a more arresting phenomenon is their dissimilarity in every particular except shape and size.
+>>>>>>
+>>>>>>                                                                                                                                 I lived at West Egg, the — well, the less fashionable of the two, though this is a most superficial tag to express the bizarre and not a little sinister contrast between them. My house was at the very tip of the egg, only fifty yards from the Sound, and squeezed between two huge places that rented for twelve or fifteen thousand a season. The one on my right was a colossal affair by any standard — it was a factual imitation of some Hotel de Ville in Normandy, with a tower on one side, spanking new under a thin beard of raw ivy, and a marble swimming pool, and more than forty acres of lawn and garden. It was Gatsby’s mansion. Or, rather, as I didn’t know Mr. Gatsby, it was a mansion inhabited by a gentleman of that name. My own house was an eyesore, but it was a small eyesore, and it had been overlooked, so I had a view of the water, a partial view of my neighbor’s lawn, and the consoling proximity of millionaires — all for eighty dollars a month.
+>>>>>>
+>>>>>>                                                                                                                                 Across the courtesy bay the white palaces of fashionable East Egg glittered along the water, and the history of the summer really begins on the evening I drove over there to have dinner with the Tom Buchanans. Daisy was my second cousin once removed, and I’d known Tom in college. And just after the war I spent two days with them in Chicago.
+>>>>>>
+>>>>>>                                                                                                                                 Her husband, among various physical accomplishments, had been one of the most powerful ends that ever played football at New Haven — a national figure in a way, one of those men who reach such an acute limited excellence at twenty-one that everything afterward savors of anti-climax. His family were enormously wealthy — even in college his freedom with money was a matter for reproach — but now he’d left Chicago and come East in a fashion that rather took your breath away: for instance, he’d brought down a string of polo ponies from Lake Forest. It was hard to realize that a man in my own generation was wealthy enough to do that.
+>>>>>>
+>>>>>>                                                                                                                                 Why they came East I don’t know. They had spent a year in France for no particular reason, and then drifted here and there unrestfully wherever people played polo and were rich together. This was a permanent move, said Daisy over the telephone, but I didn’t believe it — I had no sight into Daisy’s heart, but I felt that Tom would drift on forever seeking, a little wistfully, for the dramatic turbulence of some irrecoverable football game.
+>>>>>>
+>>>>>>                                                                                                                                 And so it happened that on a warm windy evening I drove over to East Egg to see two old friends whom I scarcely knew at all. Their house was even more elaborate than I expected, a cheerful red-and-white Georgian Colonial mansion, overlooking the bay. The lawn started at the beach and ran toward the front door for a quarter of a mile, jumping over sun-dials and brick walks and burning gardens — finally when it reached the house drifting up the side in bright vines as though from the momentum of its run. The front was broken by a line of French windows, glowing now with reflected gold and wide open to the warm windy afternoon, and Tom Buchanan in riding clothes was standing with his legs apart on the front porch.
+>>>>>>
+>>>>>>                                                                                                                                 He had changed since his New Haven years.
+>>>>>
+>>>>
+>>>>                                                                                 [The entire original message is not included.]
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>                                                                     -- 
+>>>>                                                                     Edward Hu
+>>>>                                                                     B.S. in Computer Science | Double Major Economics
+>>>>                                                                     McCormick School of Engineering | Class of 2016
+>>>>
+>>>>                                                                     Northwestern University | Evanston | Illinois | 60201 | USA
+>>>>                                                                     646-344-0776 | edwardhu2016@u.northwestern.edu
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>                                                             -- 
+>>>>                                                             Edward Hu
+>>>>                                                             B.S. in Computer Science | Double Major Economics
+>>>>                                                             McCormick School of Engineering | Class of 2016
+>>>>                                                             Northwestern University | Evanston | Illinois | 60201 | USA
+>>>>                                                             646-344-0776 | edwardhu2016@u.northwestern.edu
+>>>>
+>>>>
+>>>
+>>>
+>>>
+>>>
+>>>
+>>>                                             -- 
+>>>                                             Edward Hu
+>>>                                             B.S. in Computer Science | Double Major Economics
+>>>                                             McCormick School of Engineering | Class of 2016
+>>>                                             Northwestern University | Evanston | Illinois | 60201 | USA
+>>>                                             646-344-0776 | edwardhu2016@u.northwestern.edu
+>>
+>>
+>
+
+
+
+
+
+
+
+
+        -- 
+        Matt Hong Hyun-Young
+        B.A. Mathematics, Cognitive Science minor
+        M.S. Computer Science
+        Knight Lab | Visual Cognition Lab
+        Northwestern University '15
+
+
+

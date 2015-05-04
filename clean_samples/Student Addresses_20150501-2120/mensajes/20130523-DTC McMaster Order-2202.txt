@@ -1,0 +1,19 @@
+Asunto: DTC McMaster Order
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 5/23/2013 1:56 PM
+Para: Scott Simpson <scott-simpson@northwestern.edu>
+CC: patrickpeng2016@u.northwestern.edu, Jonas Carlsson <jonascarlsson2016@u.northwestern.edu>, evanmcconnell2016@u.northwestern.edu, mitchellzubieta2016@u.northwestern.edu
+
+Hello Scott,
+
+Here are the part numbers and quantities (and a link, but I do not know if that works) of the motors that we were just talking about.
+
+1 x 6409K15 Compact DC Gearmotor 12 VDC, 12 rpm
+1 x 6409K16Compact DC Gearmotor 12 VDC, 16 rpm
+
+http://www.mcmaster.com/#orders/=mvnl5v
+
+Hopefully this is sufficient.
+
+Best,
+Ethan Robison and members of Team Three

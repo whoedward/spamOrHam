@@ -1,0 +1,17 @@
+Asunto: 2013WI_ES_APPM_252-2_SEC20: Pattern formation and Fractals
+De: Karna Vinayak Gowda <KarnaGowda2010@u.northwestern.edu>
+Fecha: 1/14/2013 9:59 PM
+Para: "2013WI_ES_APPM_252-2_SEC20":;
+
+Ethan,
+
+I remember that you were interested in hearing a little more about patterns and fractals in applied math.
+
+http://en.wikipedia.org/wiki/Rayleigh%E2%80%93B%C3%A9nard_convection - Here is a classic example of patterns formed by convection.
+http://www.scholarpedia.org/article/Rayleigh-B%C3%A9nard_convection - Another link to the same phenomena that goes into the math a little more.
+http://en.wikipedia.org/wiki/Logistic_map - This is a great example of fractal geometry appearing in the way the solution to an equation behaves.
+http://upload.wikimedia.org/wikipedia/commons/5/50/Logistic_Bifurcation_map_High_Resolution.png - Basically this model describes the growth of a population that saturates when it approaches a carrying capacity, kind of like the growth of bacteria on a petri dish that eventually slows because nutrients run out and space becomes scarce. As we adjust a parameter in this model (the horizontal axis), the solution behaves more and more strangely until a very intricate fractal pattern emerges in the plot. Let me know if you want to know more about this, going further may require more background knowledge.
+
+Hope you find this interesting!
+
+-Karna

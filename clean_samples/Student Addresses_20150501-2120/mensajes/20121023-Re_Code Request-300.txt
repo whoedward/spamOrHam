@@ -1,0 +1,58 @@
+Asunto: Re: Code Request
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 10/23/2012 11:13 AM
+Para: Thanh Nguyen <nthanh@gmail.com>
+
+Professor,
+
+I cannot see my score, although the mean and median are there. What would you like me to do?
+
+Ethan
+
+On Tue, Oct 23, 2012 at 1:10 PM, Thanh Nguyen <nthanh@gmail.com> wrote:
+
+    Hi Ethan,
+    Yes.
+    Can you see your score on Blackboard?
+
+    Thanh
+
+
+    On 23 October 2012 13:09, Ethan Robison <ethanrobison2016@u.northwestern.edu> wrote:
+
+        Hello Professor,
+
+        Hopefully this issue has been resolved, as I have my midterm with me right now. If you need the copy back, I can bring it to your office.
+
+        Thanks,
+        Ethan
+
+
+        On Mon, Oct 22, 2012 at 3:37 PM, Thanh Nguyen <nthanh@gmail.com> wrote:
+
+            Hi Ethan,
+
+            For some reason, I don't see your midterm grade. TAs says that they don't see your exam.
+            However, I remember I saw you on the exam.
+
+            Is there something that I miss here?
+
+            Thanh
+
+
+
+
+
+            On 10/20/2012 09:21 AM, Ethan Robison wrote:
+
+                Hello Professor,
+
+                On Friday, there was an issue with the divide and conquer code, and you asked me to send you the .m file. However, after examining my code, I discovered the issue. To summarize, I used "ceil()" instead of "floor() +1," which does not work, of course. Thanks for you very much anyway. Take care.
+
+                Thank you,
+                Ethan Robison
+
+
+
+
+

@@ -1,0 +1,6 @@
+Asunto: 2013WI_ES_APPM_252-2_SEC20: Correction from discussion
+De: Karna Vinayak Gowda <KarnaGowda2010@u.northwestern.edu>
+Fecha: 2/14/2013 8:46 AM
+Para: "2013WI_ES_APPM_252-2_SEC20":;
+
+In discussion, I said that a conservative vector field needs all orders of partial derivatives to be continuous. This is false. Only the first partial derivatives need to be continuous, so that the curl exists everywhere in the region we're integrating over. Sorry for the confusion!

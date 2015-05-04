@@ -1,0 +1,16 @@
+Asunto: Matlab Coding Question
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 11/4/2012 12:41 AM
+Para: Thanh Nguyen <nthanh@gmail.com>
+
+Dear Professor,
+
+Attached is a .m file that I am currently using for the homework problem. At line 30, I have inserted a comment about the difficulties that I was having. Could you please look over the code and answer the question that I inserted there?
+
+However, if my issue is confusing (I realize that it is difficult to convey a question through Matlab comments), I am available to meet with you in person, instead.
+
+Thanks,
+Ethan Robison
+
+Adjuntos:
+Reduce.m	3.8 KB

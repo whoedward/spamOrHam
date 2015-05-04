@@ -1,0 +1,14 @@
+Asunto: Re: EA IV Lab
+De: Avinash J Karamchandani <avinashkaramchandani2012@u.northwestern.edu>
+Fecha: 6/10/2013 11:48 PM
+Para: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+
+That is much better! But double check your derivation one last time. Those peaks should be double peaks.
+
+One possible problem: If you use u = D exp(i*w*t), that matrix M should have an imaginary term.
+
+
+On Jun 11, 2013, at 2:29 AM, Ethan Robison wrote:
+
+> <MuchBetter.jpg>
+

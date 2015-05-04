@@ -1,0 +1,159 @@
+Asunto: Re: IEMS 303 project data refining finished!!
+De: Xiaolin Li <xiaolinli2018@u.northwestern.edu>
+Fecha: 6/5/2014 5:20 PM
+Para: Hyojun Ada Lee <hjlee1206@gmail.com>
+CC: Alice Zhou <yananzhou2015@u.northwestern.edu>, Harish Raja <harishraja2016@u.northwestern.edu>, Ethan Robison <ethanrobison2016@u.northwestern.edu>, Micah Zuckerman <micahzuckerman2015@u.northwestern.edu>
+
+Hi, guys,
+
+The attached is probably the final version of our project report.  I have added the VIF fit which is used to detect the multi-collinearity and decision tree algorithm to divide the design space within our report. In addition to that, I added many discussion and comments for each chapter. Please feel free to add comments and provide suggestions for our report by today. 
+
+BTW. Since the limits of time and pages, I could not include polynomial regression in our report.
+
+June- Could you please print out the final version of our report and bring it to tomorrow's class. 
+
+Thanks a lot for your helps within the labs and the projects.
+
+Best,
+Xiaolin
+
+
+2014-06-03 9:05 GMT-06:00 Hyojun Ada Lee <hjlee1206@gmail.com>:
+
+    Hey guys I was finally able to sort out the data and uploaded them on to our drive. 
+
+    Reminder: 
+          There are 763 people on our list
+          I deleted people who did not participate less than 1 month. From one of my citations it says we need to delet people whose duration is less than 6 months (which still leaves us with 500 people), but I guess for our research it won't really matter. 
+          Also all the people in our list has at least recorded their weights twice, if the record is only once, the BMI change would be 0, so there would be no point of analyzing them. 
+
+    Also when is good time to meet tomorrow? I'm free after 1 pm. 
+    I know that it's finals week and everybody is busy, but we gotta put our efforts together and work as a team. 
+
+    June
+
+
+    On Mon, Jun 2, 2014 at 9:54 PM, Xiaolin Li <xiaolinli2018@u.northwestern.edu> wrote:
+
+        Hi, guys,
+
+        Juan and I just found that the duplicated data had been moved for unknown reason from the raw data. June will check the original data tomorrow morning and we will try to catch up with our original schedule ASAP.
+
+        Sorry for the inconvenience.
+
+        Best,
+        Xiaolin
+
+
+        2014-06-01 20:53 GMT-06:00 Xiaolin Li <xiaolinli2018@u.northwestern.edu>:
+
+            I will be free after the class if my advisor does not schedule any meeting. 
+
+
+            2014-06-01 20:43 GMT-06:00 <yananzhou2015@u.northwestern.edu>:
+
+                I can do anytime after 2 and before class.
+
+                在 Jun 1, 2014，4:56 PM，Hyojun Ada Lee <hjlee1206@gmail.com> 写道：
+
+>                 Notes for todays meeting
+>
+>                 Introduction: June
+>                 Variable correlation analysis: Harish
+>
+>                 Next meeting Wednesday (time TBD)
+>                 Agenda:
+>                 -Multi variable linear regression
+>                 -Result interpretation
+>                 -VIF (Xiaolin) for extra credit (confirmed by professor)
+>                 -Conclusion
+>
+>                 What time on Wednesday is good for you?
+>
+>                 June
+>
+>                 On Jun 1, 2014, at 3:57 PM, Harish Raja <harishraja2016@u.northwestern.edu> wrote:
+>
+>>                 Ie lab right?
+>>                 —
+>>                 Sent from Mailbox
+>>
+>>
+>>                 On Sat, May 31, 2014 at 11:18 AM, Ethan Robison <ethanrobison2016@u.northwestern.edu> wrote:
+>>
+>>                     It works for me.
+>>                     El may 31, 2014 10:07 AM, "Micah Zuckerman" <micahzuckerman2015@u.northwestern.edu> escribió:
+>>
+>>                         I'm free sunday
+>>
+>>
+>>
+>>                         On Sat, May 31, 2014 at 10:03 AM, Alice Zhou <yananzhou2015@u.northwestern.edu> wrote:
+>>
+>>                             I am not available from 4-9 but will be before and after
+>>
+>>
+>>                             On Sat, May 31, 2014 at 10:02 AM, Hyojun <hjlee1206@gmail.com> wrote:
+>>
+>>                                 is Sunday 4pm ok for everybody?
+>>
+>>                                 June
+>>
+>>
+>>
+>>
+>>                             -- 
+>>                             Alice (Yanan) Zhou
+>>                             Northwestern University, '15
+>>                             Judd A. and Marjorie Weinberg College of Arts and Sciences
+>>                             Economics, Mathematics, Kellogg Certificate Program in Managerial Analytics
+>>
+>>
+>>
+>>
+>>                         -- 
+>>                         Micah Zuckerman
+>>                         Northwestern University
+>>                         McCormick School of Engineering
+>>                         Chemical Engineering
+>>                         (207) 838-8437
+>>                         micahzuckerman2015@u.northwestern.edu
+>>
+>>
+>
+
+
+
+            -- 
+            Xiaolin Li
+            Ph.D. student
+            Theoretical and Applied Mechanics Program
+            Northwestern University
+
+
+
+
+        -- 
+        Xiaolin Li
+        Ph.D. student
+        Theoretical and Applied Mechanics Program
+        Northwestern University
+
+
+
+
+    -- 
+    Hyojun Ada Lee
+
+
+
+
+-- 
+Xiaolin Li
+Ph.D. student
+Theoretical and Applied Mechanics Program
+Northwestern University
+
+
+Adjuntos:
+IEMS303Project Final.docx	338 KB

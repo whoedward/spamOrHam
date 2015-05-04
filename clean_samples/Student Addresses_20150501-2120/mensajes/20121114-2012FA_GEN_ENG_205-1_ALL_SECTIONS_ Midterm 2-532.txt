@@ -1,0 +1,11 @@
+Asunto: 2012FA_GEN_ENG_205-1_ALL_SECTIONS: Midterm 2
+De: Ilya Vladimir Mikhelson <IlyaMikhelson2010@u.northwestern.edu>
+Fecha: 11/14/2012 2:50 PM
+Para: "2012FA_GEN_ENG_205-1_ALL_SECTIONS":;
+
+Hi EA1 Students,
+This is just a reminder of what material will be on the midterm:
+
+The midterm will cover everything from the start of linear algebra lectures (Wed. of week 5) up to (and including) matrix inverses (Thurs. of week 7). This does not include MATLAB functions, determinants, or eigenvectors. This does include the network flows case study. Please refer to the course schedule posted on Blackboard to verify what material you should know, as each professor may have gone at his own pace.
+
+-Ilya Mikhelson

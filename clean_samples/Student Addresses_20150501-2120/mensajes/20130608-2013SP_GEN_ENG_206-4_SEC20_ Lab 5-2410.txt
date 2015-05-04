@@ -1,0 +1,19 @@
+Asunto: 2013SP_GEN_ENG_206-4_SEC20: Lab 5
+De: Avinash Jagdish Karamchandani <AvinashKaramchandani2012@u.northwestern.edu>
+Fecha: 6/8/2013 6:50 PM
+Para: "2013SP_GEN_ENG_206-4_SEC20":;
+
+All:
+
+I've received some questions regarding how to go about generating animated plots in MATLAB. The easiest way is to construct a for loop, and in each iteration display a frame of the animation. Introducing a pause after each frame is displayed will make it appear on screen and can be used to slow the animation down.
+
+I've attached a piece of sample code that uses this method to display an animated gplot. Also included in that code is a second method using a MATLAB movie object, which also allows one to export the animation as a video file (this is not required). By the way, the outputted animation demonstrates the dynamics of the Four Dogs puzzle (http://activityworkshop.net/puzzlesgames/fourdogs/index.html).
+
+When you submit your report/code, please be sure to tell me exactly what function(s) or script(s) I must run the see your animations.
+
+Also, I don't have easy access to Microsoft Office, it will be difficult (though not impossible) for me to read .doc and .docx files, especially those with MathType. This not a requirement, but if you are able to submit your report as a .pdf, please do.
+
+Avi
+
+Adjuntos:
+four_dogs_animation.m	1.2 KB

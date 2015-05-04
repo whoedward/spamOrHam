@@ -1,0 +1,45 @@
+Asunto: Re: Lab 2 Grade
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 2/24/2015 7:20 PM
+Para: Jennie Duggan <jennie.duggan@northwestern.edu>
+
+Professor,
+
+Thanks for the help! Now that I've looked at those posts (and also my grade), I realize that I need to do something about the results. 
+
+With that in mind, is it still too late to fix things? I realize that running on my local machine is no excuse for not running elsewhere, but I passed all but one test and would really like to get a better grade if possible.
+
+That said, I'm having a slew of problems and am not really sure where I should begin to fix things. Could I make an appointment to meet with you individually to fix things?
+
+Best,
+Ethan Robison
+
+
+2015-02-24 20:57 GMT-06:00 Jennie Duggan <jennie.duggan@northwestern.edu>:
+
+    Your grade is posted in github.  Please follow the instructions here to access it.
+
+    On Tue, Feb 24, 2015 at 5:58 PM, Ethan Christopher Robison <EthanRobison2016@u.northwestern.edu> wrote:
+
+        Hi Professor,
+
+        I am a student in your 11 a.m. databases course.
+        As of yet, I have not received a grade for lab 2. I just wanted to check to make sure that it was submitted and received, and that you don't need anything additional from me. Please let me know if you do and I will fix it immediately!
+
+        Best,
+
+        -- 
+
+        Ethan Robison
+        McCormick School of Engineering and Applied Science | Northwestern University
+        B.S. in Computer Science
+
+
+
+
+
+-- 
+
+Ethan Robison
+McCormick School of Engineering and Applied Science | Northwestern University
+B.S. in Computer Science

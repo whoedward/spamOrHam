@@ -1,0 +1,41 @@
+Asunto: Re: 2014Spring EECS_214-0_SEC21_AND_EECS_395_SEC35: Final meeting tomorrow and submisison
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 6/5/2014 10:15 PM
+Para: Jeremy Alan Midvidy <JeremyMidvidy2017@u.northwestern.edu>
+
+Hey Jeremy,
+
+I'll be in town tomorrow to see the consolate for study abroad, so I cannot make it. You guys can feel free to contact me if you need anything, though.
+
+Ethan
+
+
+2014-06-05 21:10 GMT-05:00 Jeremy Alan Midvidy <JeremyMidvidy2017@u.northwestern.edu>:
+
+    Hey!
+
+    We now have a fully functional GUI and a processor that is partly functional but works.  We are going to sort out all the kinks by tomorrow night and submit it.  I'm going to write a report about the entire project to submit along with all of our code and a javadoc for the backend.
+
+    Is everyone free tomorrow (friday) at noon to meet one last time and get everything together for submission?  Just three more things needed to be taken care of:
+
+
+        On the frontend, we need it to only to take in at most 4 mandatory classees and 4 optional classes.  The functionality doesn't need to be too fancy for this.  The GUI should just stop adding mandatory or optional classes after 4 of each are entered.  If this is too hard, the frontend should only send the first 4 mandatory classes and the first 4 optional classes to the backend.  Maybe add some text to the GUI saying it will work like this.
+
+        Also, there is some space on the GUI where it says "screenshot here."  We can add those or we can just delete it and not worry about it.
+
+        Lastly, packaging the front-end/linking content.  I'm not really sure of the entireity of the code written for this so if you worked on the frontend/linking (Jack, Angela, Zhaoyang) just be prepared to package all of your work so we can submit it.  If there is a javadoc-like functionality it would be great to add, but since the backend is in Java and there will be a javadoc for that it's compelty fine if its too much to do.
+
+
+
+    Please reply if you cannot make the meeting tomorrow at 12.  It shouldn't be that long.  The library doesn't allow rooms to be reserved during these times so let's meet in 1S on the ground floor.
+
+    See you guys tomorrow.
+
+
+
+
+-- 
+
+Ethan Robison
+McCormick School of Engineering and Applied Science | Northwestern University
+B.S. in Computer Science

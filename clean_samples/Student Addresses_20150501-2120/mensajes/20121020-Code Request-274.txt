@@ -1,0 +1,11 @@
+Asunto: Code Request
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 10/20/2012 7:21 AM
+Para: thanh@eecs.northwestern.edu
+
+Hello Professor,
+
+On Friday, there was an issue with the divide and conquer code, and you asked me to send you the .m file. However, after examining my code, I discovered the issue. To summarize, I used "ceil()" instead of "floor() +1," which does not work, of course. Thanks for you very much anyway. Take care.
+
+Thank you,
+Ethan Robison

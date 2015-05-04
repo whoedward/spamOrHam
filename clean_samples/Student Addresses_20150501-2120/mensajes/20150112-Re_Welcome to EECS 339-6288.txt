@@ -1,0 +1,37 @@
+Asunto: Re: Welcome to EECS 339
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 1/12/2015 4:13 PM
+Para: jennie.duggan@northwestern.edu
+
+Hi Professor,
+
+My github username is: ethanCrobison
+
+Thank you,
+Ethan Robison
+
+2015-01-11 22:36 GMT-06:00 <jennie.duggan@northwestern.edu>:
+
+    If you are getting this message, this means you are enrolled in Introduction to Database Systems.  The course website is at:
+    http://users.eecs.northwestern.edu/~jennie/eecs339/
+
+    Note that it contains a slightly revised syllabus here:
+    http://users.eecs.northwestern.edu/~jennie/eecs339/syllabus.html
+
+    Our piazza site is here:
+    https://piazza.com/northwestern/winter2015/eecs339/home
+
+    We will use this forum for Q&As on assignments.
+
+    We will be using github.com for sending out and collecting labs. If you have not done so already, please send me your github username.  I need all ids by Tuesday night to make sure that you get the first lab.
+
+    Prof. Duggan
+
+
+
+
+-- 
+
+Ethan Robison
+McCormick School of Engineering and Applied Science | Northwestern University
+B.S. in Computer Science

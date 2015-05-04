@@ -1,0 +1,64 @@
+Asunto: test_balls.exe
+De: Michael Wang <michaelwang2016@u.northwestern.edu>
+Fecha: 2/22/2014 7:25 PM
+Para: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+
+
+-- 
+Michael Wang | McCormick 2016 | BS in Computer Science
+michaelwang2016@u.northwestern.edu
+
+
+TestCase.txt
+
+a = 1
+a_b = 2
+a. = 3
+a123 = 4
+_c = 0
+.c = 0
+2c = 0
+fjw0rj3__ = 9
+beach_boys = 60
+who
+a++
+who
+a_b--
+who
+a123 = fjw0rj3__
+who
+a123 + fjw0rj3__
+who
+a_b - WRONG
+who
+a. * a
+who
+beach_boys / a
+who
+beach_boys / 0
+who
+a += a_b
+who
+a -= WRONG
+who
+a *= a_b
+who
+a /= a_b
+who
+a = a+a_b
+who
+a = a-a_b
+who
+a = a*5
+who
+a = a/5
+who
+a = a+GREG FERGUSON
+who
+2 = a
+2 = 2 + a
+who
+
+
+Adjuntos:
+TestCase.txt	405 bytes

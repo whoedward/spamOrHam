@@ -1,0 +1,120 @@
+Asunto: Re: Re[6]: Fiasco Playset
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 4/20/2015 6:49 PM
+Para: Alexander <alexandermartin2018@u.northwestern.edu>
+CC: kevin.ye204@gmail.com, Daniel Thirman <dthirman@gmail.com>
+
+Hey guys,
+
+Here's the code. I've fixed and added a few things that you should check out and feel free to tweak or adjust heavily:
+- the car tires thing is good
+- adjusted the religions
+- it's currently set so that only one person can have each role, we should decide how we feel about it (personally, I think that it will make things more interesting)
+- it's also set so that only one person can have each need, for the same motivations as with the roles
+- added a bunch of new roles, a few items, and a few needs
+- added some implications and contradictions
+
+Let me know your thoughts!
+Cheers,
+Ethan
+
+2015-04-20 11:34 GMT-05:00 Alexander <alexandermartin2018@u.northwestern.edu>:
+
+    Can you send out the partial playset we had / when should we meet again?
+     
+    Alexander
+     
+    ------ Original Message ------
+    From: "Ethan Robison" <ethanrobison2016@u.northwestern.edu>
+    To: "Alexander Martin" <alexandermartin2018@u.northwestern.edu>
+    Cc: kevin.ye204@gmail.com; "Daniel Thirman" <dthirman@gmail.com>
+    Sent: 4/19/2015 9:01:01 PM
+    Subject: Re: Re[4]: Fiasco Playset
+     
+>
+>     In what room are we meeting?
+>     El abr 19, 2015 12:19 PM, "Ethan Robison" <ethanrobison2016@u.northwestern.edu> escribió:
+>
+>         Works for me. See you guys there.
+>
+>         Ethan
+>         El abr 19, 2015 11:35 AM, "Alexander Martin" <alexandermartin2018@u.northwestern.edu> escribió:
+>
+>             Meet in DTC room?
+>
+>             Alexander Martin
+>             Northwestern University | Class of 2017
+>             NUSolar Chief Software Engineer and Associate PM
+>             614-598-3842 | alexandermartin2018@u.northwestern.edu
+>             On Apr 19, 2015 12:40 AM, "Alexander" <alexandermartin2018@u.northwestern.edu> wrote:
+>
+>                 Lets do that then.
+>                  
+>                 ------ Original Message ------
+>                 From: "Kevin Ye" <kevin.ye204@gmail.com>
+>                 To: "Alexander" <alexandermartin2018@u.northwestern.edu>
+>                 Cc: "Ethan Robison" <ethanrobison2016@u.northwestern.edu>; "Daniel Thirman" <dthirman@gmail.com>
+>                 Sent: 4/19/2015 12:02:32 AM
+>                 Subject: Re: Re[2]: Fiasco Playset
+>                  
+>>                 9 works for me
+>>
+>>                 On Sat, Apr 18, 2015 at 5:31 PM, Alexander <alexandermartin2018@u.northwestern.edu> wrote:
+>>
+>>                     I can do that
+>>                      
+>>                     ------ Original Message ------
+>>                     From: "Kevin Ye" <kevin.ye204@gmail.com>
+>>                     To: "Ethan Robison" <ethanrobison2016@u.northwestern.edu>
+>>                     Cc: "Daniel Thirman" <dthirman@gmail.com>; "Alexander Martin" <alexandermartin2018@u.northwestern.edu>
+>>                     Sent: 4/18/2015 4:41:36 PM
+>>                     Subject: Re: Fiasco Playset
+>>                      
+>>>                     So how does Sunday 6pm sound?
+>>>
+>>>                     On Sat, Apr 18, 2015 at 12:51 PM, Ethan Robison <ethanrobison2016@u.northwestern.edu> wrote:
+>>>
+>>>                         Sunday night is optimal for me as well.
+>>>                         El abr 18, 2015 12:09 PM, "Daniel Thirman" <dthirman@gmail.com> escribió:
+>>>
+>>>                             I can do sunday night at the earliest
+>>>
+>>>                             On Fri, Apr 17, 2015 at 8:30 PM, Kevin Ye <kevin.ye204@gmail.com> wrote:
+>>>
+>>>                                 I can work any time tomorrow, or Sunday afternoon, but I'm working on something else Sunday, so Sunday times are dependent on that.
+>>>
+>>>                                 -Kevin
+>>>
+>>>                                 On Fri, Apr 17, 2015 at 10:59 AM, Alexander Martin <alexandermartin2018@u.northwestern.edu> wrote:
+>>>
+>>>                                     Do you guys want to meet this weekend to do the assignment.  I have two midterms on Wednesday and Thursday so I would prefer to do it before Tuesday night.
+>>>
+>>>                                     Alexander Martin
+>>>                                     Northwestern University | Class of 2017
+>>>                                     NUSolar Chief Software Engineer and Associate PM
+>>>                                     614-598-3842 | alexandermartin2018@u.northwestern.edu
+>>>                                     On Apr 15, 2015 4:55 PM, "Ethan Robison" <ethanrobison2016@u.northwestern.edu> wrote:
+>>>
+>>>                                         Initial Contact
+>>>
+>>>                                         -- 
+>>>
+>>>                                         Ethan Robison
+>>>                                         McCormick School of Engineering and Applied Science | Northwestern University
+>>>                                         B.S. in Computer Science
+>>>
+>>>
+>>>
+>>>
+>>
+
+
+
+-- 
+
+Ethan Robison
+McCormick School of Engineering and Applied Science | Northwestern University
+B.S. in Computer Science
+
+Adjuntos:
+submission.pl	7.9 KB

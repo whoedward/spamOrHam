@@ -1,0 +1,65 @@
+Asunto: Re: EA IV Lab
+De: Avinash J Karamchandani <avinashkaramchandani2012@u.northwestern.edu>
+Fecha: 6/10/2013 9:00 PM
+Para: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+
+How exactly are you computing the amplitudes? Remember the amplitude response curve plots the steady state amplitude against the forcing frequency, omega. If you are not already, I would follow the procedure of Lab 5 to determine the steady state solution, and compute the four amplitudes on the fly.
+
+Also when you say that  the amplitude is constant in time, is that for a particular choice of omega?
+
+Avi
+On Jun 10, 2013, at 10:59 PM, Ethan Robison wrote:
+
+> Hello,
+>
+> I did manage to find the amplitudes in the manner that you and Dr. Kath suggested, but I am not sure how to find the natural resonant frequencies from my graphs. From the way that things look, there is no change in amplitude that appears to be at any frequency. If I instead plot time versus amplitude, I merely get a horizontal line.
+>
+> It seems that my amplitude is remaining constant with time.
+>
+> I get the feeling that this is not exactly right.
+>
+> If there are any pointers that you could give me, I would greatly appreciate them.
+>
+> Best,
+> Ethan Robison
+>
+>
+> 2013/6/10 Avinash J Karamchandani <avinashkaramchandani2012@u.northwestern.edu>
+>
+>     That's exactly what I'm expecting. Ethan, please let us know if you have any remaining questions.
+>
+>     Avi
+>
+>     On Jun 10, 2013, at 12:04 PM, Nir Yungster wrote:
+>
+>>     Hi Ethan,
+>>
+>>     My understanding is that you only need to worry about an analytical calculation of eigenmodes for part 1, and that for part two, just the computational calculation is fine.  You can then on the resonance curve identify the natural frequencies that were found.  Is that consistent with what you're expecting, Avy?
+>>
+>>     And yes, feel free to stop by office hours today if this doesn't answer your question.
+>>
+>>     Nir
+>>
+>>
+>>     On Sun, Jun 9, 2013 at 11:17 PM, Ethan Robison <ethanrobison2016@u.northwestern.edu> wrote:
+>>
+>>         Hello Nir,
+>>
+>>         I am Ethan Robison, a student in Dr. Kath's EA IV class. I wanted to ask you if you are still holding office hours tomorrow (Monday, 6/10/13) from 2-4 p.m. If you are, I can ask my questions then.
+>>
+>>         However, if you are not, then I would like to ask you about part 2 of the lab.
+>>         Although Dr. Kath's notes have examples for solving a system with damping (but no forcing) and a system with forcing (but no damping), there is nothing that outlines doing a system with both.
+>>         When we did systems with single equations (i.e., without matrices), one could use undetermined coefficients to solve this type of system. However, using undetermined coefficients does not seem to help much here.
+>>         Could you help me to get started on the solution, perhaps?
+>>
+>>         Of course, if you are having office hours, I can just come to those.
+>>
+>>         If there is anything that I can do to make things more clear, please let me know.
+>>
+>>         Thanks,
+>>         Ethan Robison
+>>
+>>
+>
+>
+

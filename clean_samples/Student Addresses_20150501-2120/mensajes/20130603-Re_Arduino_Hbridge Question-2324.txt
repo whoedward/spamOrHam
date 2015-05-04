@@ -1,0 +1,70 @@
+Asunto: Re: Arduino/Hbridge Question
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 6/3/2013 2:50 PM
+Para: Nick Marchuk <nick.marchuk@gmail.com>
+
+Ah, excellent.
+Thank you very much.
+
+Ethan
+
+
+2013/6/3 Nick Marchuk <nick.marchuk@gmail.com>
+
+    You can use the ~ pins like regular pins, they are the only pins that
+    you can also use analogWrite() with
+
+    On Mon, Jun 3, 2013 at 4:41 PM, Ethan Robison
+    <ethanrobison2016@u.northwestern.edu> wrote:
+    > Nick,
+    >
+    > That seems to make sense, thank you.
+    >
+    > Can I use a ~pin as a digital output? Or do I need to set it at 255 for HIGH
+    > and 0 for LOW?
+    >
+    > Thanks again,
+    > Ethan Robison
+    >
+    >
+    > 2013/6/3 Nick Marchuk <nick.marchuk@gmail.com>
+    >>
+    >> That is correct, 25% speed if DIR is HIGH and 75% speed if LOW.
+    >>
+    >> If you don't care about different speeds, and only want CW CCW or OFF,
+    >> you need 2 digital pins. When 1 is HIGH and 2 is LOW, you get CW, when
+    >> 1 is LOW and 2 is HIGH you get CCW, and when 1 and 2 are LOW or 1 and
+    >> 2 are HIGH you get OFF.
+    >>
+    >> So you always need 2 pins.
+    >>
+    >> On Mon, Jun 3, 2013 at 3:41 PM, Ethan Robison
+    >> <ethanrobison2016@u.northwestern.edu> wrote:
+    >> > Hello Nick,
+    >> >
+    >> > I am Ethan Robison, a freshman in DTC. I spoke with you earlier today
+    >> > concerning the Arduino for our project (turning over Brian), and you
+    >> > mentioned that the H-Bridge will read the speed and direction from the
+    >> > Arduino, then go from there.
+    >> >
+    >> > So, if the direction is HIGH (5V) and the speed is 63 (1.25V), the chip
+    >> > will
+    >> > turn the motor a direction (the specifics are not important here) at 25%
+    >> > speed; and if the direction is LOW (0V) and the speed is 63 (1.25V), the
+    >> > motor will turn the other way at 75% speed.
+    >> >
+    >> > If this is the case, can we wire both speed and direction to the same
+    >> > pin,
+    >> > so that at HIGH the motor will turn 100% one way, and at LOW the motor
+    >> > will
+    >> > turn (100-0)% the other way?
+    >> >
+    >> > If this is confusing, I apologize. If you need any clarification or
+    >> > additional information, please feel free to ask!
+    >> >
+    >> > Thanks,
+    >> > Ethan Robison
+    >
+    >
+
+

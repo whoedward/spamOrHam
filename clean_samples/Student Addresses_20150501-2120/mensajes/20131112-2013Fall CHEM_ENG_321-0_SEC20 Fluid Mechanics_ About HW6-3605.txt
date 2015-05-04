@@ -1,0 +1,12 @@
+Asunto: 2013Fall CHEM_ENG_321-0_SEC20 Fluid Mechanics: About HW6
+De: Hongda Zhang <HongdaZhang2012@u.northwestern.edu>
+Fecha: 11/12/2013 12:48 PM
+Para: "2013FA_CHEM_ENG_321-0_SEC20":;
+
+Hi all,
+
+For HW6, Denn 8.8, the width of the extruder is W. You may need it in your solution.
+
+For Denn 8.10, all the fluid properties including its density and viscosity are already known. Also, the flow rate per unit length q, the mean radius of the two cyliners R(AB) adn R(CD) are all known properties. You can directly include them in your final answer.
+
+Hongda

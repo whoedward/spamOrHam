@@ -1,0 +1,241 @@
+Asunto: Re: IEMS 303 project data refining finished!!
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 6/3/2014 7:01 PM
+Para: Micah Zuckerman <micahzuckerman2015@u.northwestern.edu>
+CC: Xiaolin Li <xiaolinli2018@u.northwestern.edu>, harishraja2016@u.northwestern.edu, Alice Zhou <yananzhou2015@u.northwestern.edu>, Hyojun Ada Lee <hjlee1206@gmail.com>
+
+Works for me.
+El jun 3, 2014 8:59 PM, "Micah Zuckerman" <micahzuckerman2015@u.northwestern.edu> escribió:
+
+    I'm free then
+
+
+    On Tue, Jun 3, 2014 at 8:58 PM, Hyojun Ada Lee <hjlee1206@gmail.com> wrote:
+
+        Yes, I think Harish is talking about the matrix scatterplot part that we thought might be able to do before tomorrow’s meeting. 
+        is it okay for everybody to meet tomorrow at 8pm?
+
+
+        On Jun 3, 2014, at 8:23 PM, yananzhou2015@u.northwestern.edu wrote:
+
+>         Wait! What's going on? I thought we are meeting tomorrow?
+>
+>         Sent from my iPhone
+>
+>         On Jun 3, 2014, at 5:06 PM, "Harish Raja" <harishraja2016@u.northwestern.edu> wrote:
+>
+>>         So I just realized that I have a final tomorrow so I need the time to study, so I don't think I can make it today. 
+>>
+>>         If I can get the info I'll be able to finish it by tomorrow. 
+>>
+>>         Sorry,
+>>         Harish
+>>         —
+>>         Sent from Mailbox
+>>
+>>
+>>         On Tue, Jun 3, 2014 at 2:57 PM, Hyojun Ada Lee <hjlee1206@gmail.com> wrote:
+>>
+>>             Alice: after 2 pm 
+>>             June: after 1 pm 
+>>             Micah: after 5 pm 
+>>             Harish: after 7:30 pm
+>>             Ethan: 1-4pm , after 7:45 pm
+>>             Xiaoline: 12-3 pm 
+>>
+>>             I guess everybody will be available at 8 pm. 
+>>
+>>             June
+>>             On Jun 3, 2014, at 11:30 AM, Micah Zuckerman <micahzuckerman2015@u.northwestern.edu> wrote:
+>>
+>>>             I'm only free after 5.
+>>>
+>>>
+>>>             On Tue, Jun 3, 2014 at 11:24 AM, Hyojun Ada Lee <hjlee1206@gmail.com> wrote:
+>>>
+>>>                 IE computer lab??
+>>>                 I’m fine with meeting after 7:30 pm
+>>>
+>>>                 Xiaolin are you okay with 7:30 pm?
+>>>                 Or if Harish can finish analyzing the first part and upload the doc file on drive, before 2 pm tomorrow rest of us can meet and finish rest of the project. 
+>>>
+>>>                 June
+>>>
+>>>                 On Jun 3, 2014, at 11:12 AM, Harish Raja <harishraja2016@u.northwestern.edu> wrote:
+>>>
+>>>>                 I'm only free after 7:30.
+>>>>                 —
+>>>>                 Sent from Mailbox
+>>>>
+>>>>
+>>>>                 On Tue, Jun 3, 2014 at 10:21 AM, Xiaolin Li <xiaolinli2018@u.northwestern.edu> wrote:
+>>>>
+>>>>                     I will be free the from 12 to 3.
+>>>>
+>>>>                     Hyojun Ada Lee <hjlee1206@gmail.com>于2014年6月3日星期二写道：
+>>>>
+>>>>                         Hey guys I was finally able to sort out the data and uploaded them on to our drive. 
+>>>>
+>>>>                         Reminder: 
+>>>>                               There are 763 people on our list
+>>>>                               I deleted people who did not participate less than 1 month. From one of my citations it says we need to delet people whose duration is less than 6 months (which still leaves us with 500 people), but I guess for our research it won't really matter. 
+>>>>                               Also all the people in our list has at least recorded their weights twice, if the record is only once, the BMI change would be 0, so there would be no point of analyzing them. 
+>>>>
+>>>>                         Also when is good time to meet tomorrow? I'm free after 1 pm. 
+>>>>                         I know that it's finals week and everybody is busy, but we gotta put our efforts together and work as a team. 
+>>>>
+>>>>                         June
+>>>>
+>>>>
+>>>>                         On Mon, Jun 2, 2014 at 9:54 PM, Xiaolin Li <xiaolinli2018@u.northwestern.edu> wrote:
+>>>>
+>>>>                             Hi, guys,
+>>>>
+>>>>                             Juan and I just found that the duplicated data had been moved for unknown reason from the raw data. June will check the original data tomorrow morning and we will try to catch up with our original schedule ASAP.
+>>>>
+>>>>                             Sorry for the inconvenience.
+>>>>
+>>>>                             Best,
+>>>>                             Xiaolin
+>>>>
+>>>>
+>>>>                             2014-06-01 20:53 GMT-06:00 Xiaolin Li <xiaolinli2018@u.northwestern.edu>:
+>>>>
+>>>>                                 I will be free after the class if my advisor does not schedule any meeting. 
+>>>>
+>>>>
+>>>>                                 2014-06-01 20:43 GMT-06:00 <yananzhou2015@u.northwestern.edu>:
+>>>>
+>>>>                                     I can do anytime after 2 and before class.
+>>>>
+>>>>                                     在 Jun 1, 2014，4:56 PM，Hyojun Ada Lee <hjlee1206@gmail.com> 写道：
+>>>>
+>>>>>                                     Notes for todays meeting
+>>>>>
+>>>>>                                     Introduction: June
+>>>>>                                     Variable correlation analysis: Harish
+>>>>>
+>>>>>                                     Next meeting Wednesday (time TBD)
+>>>>>                                     Agenda:
+>>>>>                                     -Multi variable linear regression
+>>>>>                                     -Result interpretation
+>>>>>                                     -VIF (Xiaolin) for extra credit (confirmed by professor)
+>>>>>                                     -Conclusion
+>>>>>
+>>>>>                                     What time on Wednesday is good for you?
+>>>>>
+>>>>>                                     June
+>>>>>
+>>>>>                                     On Jun 1, 2014, at 3:57 PM, Harish Raja <harishraja2016@u.northwestern.edu> wrote:
+>>>>>
+>>>>>>                                     Ie lab right?
+>>>>>>                                     —
+>>>>>>                                     Sent from Mailbox
+>>>>>>
+>>>>>>
+>>>>>>                                     On Sat, May 31, 2014 at 11:18 AM, Ethan Robison <ethanrobison2016@u.northwestern.edu> wrote:
+>>>>>>
+>>>>>>                                         It works for me.
+>>>>>>                                         El may 31, 2014 10:07 AM, "Micah Zuckerman" <micahzuckerman2015@u.northwestern.edu> escribió:
+>>>>>>
+>>>>>>                                             I'm free sunday
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>                                             On Sat, May 31, 2014 at 10:03 AM, Alice Zhou <yananzhou2015@u.northwestern.edu> wrote:
+>>>>>>
+>>>>>>                                                 I am not available from 4-9 but will be before and after
+>>>>>>
+>>>>>>
+>>>>>>                                                 On Sat, May 31, 2014 at 10:02 AM, Hyojun <hjlee1206@gmail.com> wrote:
+>>>>>>
+>>>>>>                                                     is Sunday 4pm ok for everybody?
+>>>>>>
+>>>>>>                                                     June
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>                                                 -- 
+>>>>>>                                                 Alice (Yanan) Zhou
+>>>>>>                                                 Northwestern University, '15
+>>>>>>                                                 Judd A. and Marjorie Weinberg College of Arts and Sciences
+>>>>>>                                                 Economics, Mathematics, Kellogg Certificate Program in Managerial Analytics
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>
+>>>>>>                                             -- 
+>>>>>>                                             Micah Zuckerman
+>>>>>>                                             Northwestern University
+>>>>>>                                             McCormick School of Engineering
+>>>>>>                                             Chemical Engineering
+>>>>>>                                             (207) 838-8437
+>>>>>>                                             micahzuckerman2015@u.northwestern.edu
+>>>>>>
+>>>>>>
+>>>>>
+>>>>
+>>>>
+>>>>
+>>>>                                 -- 
+>>>>                                 Xiaolin Li
+>>>>                                 Ph.D. student
+>>>>                                 Theoretical and Applied Mechanics Program
+>>>>                                 Northwestern University
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>                             -- 
+>>>>                             Xiaolin Li
+>>>>                             Ph.D. student
+>>>>                             Theoretical and Applied Mechanics Program
+>>>>                             Northwestern University
+>>>>
+>>>>
+>>>>
+>>>>
+>>>>                         -- 
+>>>>                         Hyojun Ada Lee
+>>>>
+>>>>
+>>>>
+>>>>                     -- 
+>>>>                     Xiaolin Li
+>>>>                     Ph.D. student
+>>>>                     Theoretical and Applied Mechanics Program
+>>>>                     Northwestern University
+>>>>
+>>>>
+>>>>
+>>>
+>>>
+>>>
+>>>
+>>>             -- 
+>>>             Micah Zuckerman
+>>>             Northwestern University
+>>>             McCormick School of Engineering
+>>>             Chemical Engineering
+>>>             (207) 838-8437
+>>>             micahzuckerman2015@u.northwestern.edu
+>>
+>>
+
+
+
+
+    -- 
+    Micah Zuckerman
+
+    Northwestern University
+
+    McCormick School of Engineering
+
+    Chemical Engineering
+
+    (207) 838-8437
+
+    micahzuckerman2015@u.northwestern.edu
+

@@ -1,0 +1,18 @@
+Asunto: VGA Port in Dillo
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 11/26/2013 6:36 PM
+Para: "michael.mckean" <michael.mckean@northwestern.edu>
+
+Hey Michael,
+
+I am emailing you to let you know that the VGA port in Dillo is fairly messed up and needs some repairing, One of the screws for the VGA is missing and the other is filled with a broken off screw from a VGA cable. In short, it's junk.
+I had to unscrew the plate to get the cable to attach properly. The screws for the plate are on top of the cable box.
+
+Best,
+Ethan
+
+-- 
+
+Ethan Robison
+McCormick School of Engineering and Applied Science | Northwestern University
+B.S. in Computer Science

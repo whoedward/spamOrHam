@@ -1,0 +1,55 @@
+Asunto: Re: Equipment Check Out Spreadsheet (Draft One)
+De: Ethan Robison <ethanrobison2016@u.northwestern.edu>
+Fecha: 10/29/2013 9:31 PM
+Para: Robert Ramirez <robertramirez2015@u.northwestern.edu>
+CC: "michael.mckean" <michael.mckean@northwestern.edu>, Michael Mckean <mckean73@gmail.com>, "ntssupervisors@gmail.com" <ntssupervisors@gmail.com>
+
+Check out version 1.1 for the relevant changes.
+A lot of the stuff is there for testing purposes, and won't show up in the final version. The second sheet won't be editable by the regular techs (password protected).
+
+And to answer your question: the second column, along with the first and third, is needed to make those dropdown menus on the first sheet.
+
+This should be all for now (I can show you guys more tomorrow at the meeting).
+
+Ethan
+
+P.S. The macro version might not run, I do not know. Have fun with either one!
+
+
+2013/10/29 Robert Ramirez <robertramirez2015@u.northwestern.edu>
+
+    What do the numbers mean for the second column of the second page? Also, maybe include a comments column for check out as well? Just in case. 
+
+    This looks awesome though.
+
+    -Bobby
+
+
+    On Tue, Oct 29, 2013 at 7:21 PM, Ethan Robison <ethanrobison2016@u.northwestern.edu> wrote:
+
+        Hey Guys,
+
+        Attached is a copy of the equipment check-in/check-out spreadsheet that I am working on. It is by no means finished (I have ambitions for this bad boy), but I'd love to hear what you guys think so far. Anything from color schemes to missing features to rearrangements. Positive comments and constructive criticisms are encouraged!
+
+        Thanks,
+        Ethan
+
+        -- 
+
+        Ethan Robison
+        McCormick School of Engineering and Applied Science | Northwestern University
+        B.S. in Chemical Engineering
+
+
+
+
+
+-- 
+
+Ethan Robison
+McCormick School of Engineering and Applied Science | Northwestern University
+B.S. in Chemical Engineering
+
+Adjuntos:
+Equipment Data Sheet.xlsm	19.7 KB
+Equipment Data Sheet (No Macro).xlsx	13.5 KB
