@@ -1,8 +1,0 @@
-Asunto: 2014Winter EECS_111-0_SEC20 Fundamentals of Computer Programming: Worksheet Solutions
-De: Nicholas Daniel Hall <NicholasHall2016@u.northwestern.edu>
-Fecha: 1/22/2014 2:57 PM
-Para: "2014WI_EECS_111-0_SEC20":;
-
-The solutions to the worksheet from yesterday's discussion section are now posted on Canvas under Files > Worksheets.
-
--Nick

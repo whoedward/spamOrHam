@@ -1,6 +1,0 @@
-Asunto: 2014Winter EECS_211-0_SEC21 Fundamentals of Computer Programming II: Lab 5 Clarification - Reading Input
-De: SamanthaNowierski2012@u.northwestern.edu
-Fecha: 2/18/2014 7:17 PM
-Para: "2014WI_EECS_211-0_SEC21":;
-
-For Lab 5, your main program should read each "command line" from a .txt file, as was done in previous assignments. Please name this file 'TestCase.txt'. We will use our own test file when grading your programs, so you should not submit the file you used to test your program. 

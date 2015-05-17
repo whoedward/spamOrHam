@@ -1,6 +1,0 @@
-Asunto: 2014SP_EECS_214-0_SEC21_AND_EECS_395_SEC35: Assignment 3 deadline tonight
-De: Samarth Zankharia <samarthzankharia2014@u.northwestern.edu>
-Fecha: 4/11/2014 3:23 PM
-Para: "2014SP_EECS_214-0_SEC21_AND_EECS_395_SEC35":;
-
-This is a friendly reminder that Assignment 3 is due today at 11:59 PM. Don't forget to submit .jar file and the source code. If you have made multiple submissions, your latest attempt will be graded. Have a great weekend!

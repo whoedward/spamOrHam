@@ -1,8 +1,0 @@
-Asunto: 2013WI_ES_APPM_252-2_SEC20: Correction from example in discussion
-De: Karna Vinayak Gowda <KarnaGowda2010@u.northwestern.edu>
-Fecha: 1/24/2013 8:05 AM
-Para: "2013WI_ES_APPM_252-2_SEC20":;
-
-I figured out what I did wrong on the board. The off-center semicircle in the problem we were working on is y = sqrt(2x - x^2)...
-
-Here's what the upper bound for r should have been: http://bit.ly/TrEtk1
