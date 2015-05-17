@@ -1,7 +1,9 @@
 # emacs back-ups
 *~
+
 # built python
 *.pyc
+
 # todo list
 TODO.txt
 
@@ -9,5 +11,5 @@ TODO.txt
 #Ham_samples/*
 #Spam_samples/*
 
-Ham_samples/
-Spam_samples/
+Ham_samples
+Spam_samples
