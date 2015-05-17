@@ -1,2 +1,4 @@
 # emacs back-ups
 *~
+# built python
+*.pyc
