@@ -2,3 +2,12 @@
 *~
 # built python
 *.pyc
+# todo list
+TODO.txt
+
+# dirs
+#Ham_samples/*
+#Spam_samples/*
+
+Ham_samples/
+Spam_samples/
