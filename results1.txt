@@ -1,0 +1,160 @@
+Spam Accuracy: 0.958904109589
+Ham Accuracy: 0.994562106468
+0.9 0.4
+
+Spam Accuracy: 0.960861056751
+Ham Accuracy: 0.994562106468
+0.9 0.45
+
+Spam Accuracy: 0.961643835616
+Ham Accuracy: 0.994562106468
+0.9 0.5
+
+Spam Accuracy: 0.963209393346
+Ham Accuracy: 0.994562106468
+0.9 0.55
+
+Spam Accuracy: 0.958512720157
+Ham Accuracy: 0.994562106468
+0.91 0.4
+
+Spam Accuracy: 0.960469667319
+Ham Accuracy: 0.994562106468
+0.91 0.45
+
+Spam Accuracy: 0.960861056751
+Ham Accuracy: 0.994562106468
+0.91 0.5
+
+Spam Accuracy: 0.962426614481
+Ham Accuracy: 0.994562106468
+0.91 0.55
+
+Spam Accuracy: 0.958121330724
+Ham Accuracy: 0.994562106468
+0.92 0.4
+
+Spam Accuracy: 0.960469667319
+Ham Accuracy: 0.994562106468
+0.92 0.45
+
+Spam Accuracy: 0.960469667319
+Ham Accuracy: 0.994562106468
+0.92 0.5
+
+Spam Accuracy: 0.961643835616
+Ham Accuracy: 0.994562106468
+0.92 0.55
+
+Spam Accuracy: 0.956555772994
+Ham Accuracy: 0.994562106468
+0.93 0.4
+
+Spam Accuracy: 0.958121330724
+Ham Accuracy: 0.994562106468
+0.93 0.45
+
+Spam Accuracy: 0.958904109589
+Ham Accuracy: 0.994562106468
+0.93 0.5
+
+Spam Accuracy: 0.959686888454
+Ham Accuracy: 0.994562106468
+0.93 0.55
+
+Spam Accuracy: 0.953424657534
+Ham Accuracy: 0.995134516314
+0.94 0.4
+
+Spam Accuracy: 0.955381604697
+Ham Accuracy: 0.995134516314
+0.94 0.45
+
+Spam Accuracy: 0.955772994129
+Ham Accuracy: 0.995134516314
+0.94 0.5
+
+Spam Accuracy: 0.956947162427
+Ham Accuracy: 0.995134516314
+0.94 0.55
+
+Spam Accuracy: 0.951467710372
+Ham Accuracy: 0.995134516314
+0.95 0.4
+
+Spam Accuracy: 0.954207436399
+Ham Accuracy: 0.995134516314
+0.95 0.45
+
+Spam Accuracy: 0.954598825832
+Ham Accuracy: 0.995134516314
+0.95 0.5
+
+Spam Accuracy: 0.954990215264
+Ham Accuracy: 0.995134516314
+0.95 0.55
+
+Spam Accuracy: 0.950293542074
+Ham Accuracy: 0.995134516314
+0.96 0.4
+
+Spam Accuracy: 0.952250489237
+Ham Accuracy: 0.995134516314
+0.96 0.45
+
+Spam Accuracy: 0.953424657534
+Ham Accuracy: 0.995134516314
+0.96 0.5
+
+Spam Accuracy: 0.954207436399
+Ham Accuracy: 0.995134516314
+0.96 0.55
+
+Spam Accuracy: 0.948336594912
+Ham Accuracy: 0.995134516314
+0.97 0.4
+
+Spam Accuracy: 0.950684931507
+Ham Accuracy: 0.995134516314
+0.97 0.45
+
+Spam Accuracy: 0.951076320939
+Ham Accuracy: 0.995134516314
+0.97 0.5
+
+Spam Accuracy: 0.951859099804
+Ham Accuracy: 0.995134516314
+0.97 0.55
+
+Spam Accuracy: 0.944031311155
+Ham Accuracy: 0.995420721236
+0.98 0.4
+
+Spam Accuracy: 0.947945205479
+Ham Accuracy: 0.995420721236
+0.98 0.45
+
+Spam Accuracy: 0.948727984344
+Ham Accuracy: 0.995420721236
+0.98 0.5
+
+Spam Accuracy: 0.948727984344
+Ham Accuracy: 0.995420721236
+0.98 0.55
+
+Spam Accuracy: 0.942465753425
+Ham Accuracy: 0.99685174585
+0.99 0.4
+
+Spam Accuracy: 0.944031311155
+Ham Accuracy: 0.99685174585
+0.99 0.45
+
+Spam Accuracy: 0.945596868885
+Ham Accuracy: 0.99685174585
+0.99 0.5
+
+Spam Accuracy: 0.94637964775
+Ham Accuracy: 0.99685174585
+0.99 0.55
+

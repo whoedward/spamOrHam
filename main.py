@@ -1,18 +1,36 @@
-## Ethan Robison, Edward Hu
-## EECS 349 Spring 2015
+'''
+Ethan Robison, Edward Hu
+EECS 349 final project
+'''
 
-import sys##, os
-from collections import defaultdict
-from data_collection import *
+import sys
+from data_collection import  SpamFilterClassifier, SpamTrainer, MetaSpamTest
 
-## command line inputs
-spam_dir = sys.argv[1]
-ham_dir = sys.argv[2]
 
 
 if __name__ == '__main__':
-    ham_emails = dir_process(ham_dir)
-    ##    spam_emails = dir_process(spam_dir)
+    ## command line inputs
+    CASE = sys.argv[1]
+    if CASE == "train":
+        SPAM_DIR = sys.argv[2]
+        HAM_DIR = sys.argv[3]
+        RES_CSV = sys.argv[4]
 
-    split_header(ham_emails[0])
-    ##    processed_ham = []
+        TRAINER = SpamTrainer(SPAM_DIR, HAM_DIR)
+        TRAINER.put_to_csv(RES_CSV)
+
+    elif CASE == "test":
+        TRAIN_CSV = sys.argv[2]
+        CLASS_SPAM = sys.argv[3]
+        CLASS_HAM = sys.argv[4]
+
+        META = MetaSpamTest(TRAIN_CSV, CLASS_SPAM, CLASS_HAM)
+        META.run_all_classify()
+
+#        CLASSIFIER = SpamFilterClassifier(TRAIN_CSV, CLASS_SPAM, CLASS_HAM)
+
+#        print CLASSIFIER.run_classify()
+
+    else:
+        print "not so good, chief..."
+

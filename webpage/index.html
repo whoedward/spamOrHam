@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Edward Hu">
+
+    <title>Spam Or Ham</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/simple-sidebar.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <div id="wrapper">
+
+        <!-- Sidebar -->
+        <div id="sidebar-wrapper">
+            <ul class="sidebar-nav">
+                <li class="sidebar-brand">
+                    <a href="#">
+                        Spam or Ham
+                    </a>
+                </li>
+                <li>
+                    <a href="#dreamteam">Dream Team</a>
+                </li>
+                <li>
+                    <a href="#">Shortcuts</a>
+                </li>
+                <li>
+                    <a href="#">Overview</a>
+                </li>
+                <li>
+                    <a href="#">Events</a>
+                </li>
+                <li>
+                    <a href="#">About</a>
+                </li>
+                <li>
+                    <a href="#">Services</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+            </ul>
+        </div>
+        <!-- /#sidebar-wrapper -->
+
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1>Spam or Ham</h1>
+<!--                         <a href="#menu-toggle" class="btn btn-default" id="menu-toggle">Toggle Menu</a>
+ -->                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /#page-content-wrapper -->
+
+        <div id="page-content-wrapper" id = "dreamteam">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1>Dream Team</h1>
+                        <ul>
+                            <li>Edward Hu</li>
+                                <ul>
+                                    <li>edwardhu2016@u.northwestern.edu</li>
+                                </ul>
+                            <li>Ethan Robison</li>
+                                <ul>
+                                    <li>ethans email</li>
+                                </ul>
+                        </ul>
+                        <p>
+                            We are both undergraduates (Class of 2016) at Northwestern's McCormick School of Engineering. This course project is under EECS 349 Machine Learning with Professor Downey.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Page Content -->
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1>Synopsis</h1>
+                        <ul>
+                            <li>Problem</li>
+                                <ul>
+                                    <li>here is the problem</li>
+                                </ul>
+                            <li>Solution</li>
+                                <ul>
+                                    <li>here is the solution</li>
+                                </ul>
+                            <li>Dataset</li>
+                                <ul>
+                                    <li>here is the data</li>
+                                </ul>
+                            <li>Results</li>
+                                <ul>
+                                    <li>here is the result</li>
+                                </ul>
+                            <li>Diagrams</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="page-content-wrapper">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <h1>Final Report</h1>
+                   </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <!-- /#wrapper -->
+
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Menu Toggle Script -->
+    <script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+    </script>
+
+    <script type="text/javascript">
+        $('a[href*=#]').click(function(event){
+            $('html, body').animate({
+                scrollTop: $( $.attr(this, 'href') ).offset().top
+            }, 500);
+            event.preventDefault();
+        });
+    </script>
+
+</body>
+
+</html>
